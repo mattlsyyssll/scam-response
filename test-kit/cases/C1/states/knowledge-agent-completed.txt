@@ -1,0 +1,4 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+result: see the replies of the case

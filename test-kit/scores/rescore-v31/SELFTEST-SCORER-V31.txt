@@ -1,0 +1,178 @@
+scorer self-test: pass; unread on correct replies: 0
+C1 correct reply: right (172 right, 0 wrong, 0 unread) PASS
+C1 reformatted (case, bold, commas, bullets, list order): right PASS
+C1 mutant "wrong total": not right, expected a wrong field: PASS
+C1 mutant "wrong dispute count": not right, expected a wrong field: PASS
+C1 mutant "missing dispute-count line": not right, expected a unread field: PASS
+C1 mutant "wrong amount in a payment block": not right, expected a wrong field: PASS
+C1 mutant "wrong date in a payment block": not right, expected a wrong field: PASS
+C1 mutant "wrong rule code": not right, expected a wrong field: PASS
+C1 mutant "wrong payee text": not right, expected a wrong field: PASS
+C1 mutant "missing report-by line": not right, expected a unread field: PASS
+C1 mutant "wrong script step": not right, expected a wrong field: PASS
+C1 mutant "altered quote": not right, expected a wrong field: PASS
+C1 mutant "wrong letter addressee": not right, expected a wrong field: PASS
+C1 mutant "missing signature line": not right, expected a unread field: PASS
+C1 mutant "missing exhibit": not right, expected a wrong field: PASS
+C1 mutant "missing page": not right, expected a unread field: PASS
+C1 mutant "wrong status": not right, expected a wrong field: PASS
+C1 mutant "scam number in Number to call": not right, expected a wrong field: PASS
+C1 mutant "stop-list item missing": not right, expected a wrong field: PASS
+C2 correct reply: right (210 right, 0 wrong, 0 unread) PASS
+C2 reformatted (case, bold, commas, bullets, list order): right PASS
+C2 mutant "wrong total": not right, expected a wrong field: PASS
+C2 mutant "wrong dispute count": not right, expected a wrong field: PASS
+C2 mutant "missing dispute-count line": not right, expected a unread field: PASS
+C2 mutant "wrong amount in a payment block": not right, expected a wrong field: PASS
+C2 mutant "wrong date in a payment block": not right, expected a wrong field: PASS
+C2 mutant "wrong rule code": not right, expected a wrong field: PASS
+C2 mutant "wrong payee text": not right, expected a wrong field: PASS
+C2 mutant "missing report-by line": not right, expected a unread field: PASS
+C2 mutant "wrong script step": not right, expected a wrong field: PASS
+C2 mutant "altered quote": not right, expected a wrong field: PASS
+C2 mutant "wrong letter addressee": not right, expected a wrong field: PASS
+C2 mutant "missing signature line": not right, expected a unread field: PASS
+C2 mutant "missing exhibit": not right, expected a wrong field: PASS
+C2 mutant "missing page": not right, expected a unread field: PASS
+C2 mutant "wrong status": not right, expected a wrong field: PASS
+C2 mutant "scam number in Number to call": not right, expected a wrong field: PASS
+C2 mutant "stop-list item missing": not right, expected a wrong field: PASS
+C3 correct reply: right (212 right, 0 wrong, 0 unread) PASS
+C3 reformatted (case, bold, commas, bullets, list order): right PASS
+C3 mutant "wrong total": not right, expected a wrong field: PASS
+C3 mutant "wrong dispute count": not right, expected a wrong field: PASS
+C3 mutant "missing dispute-count line": not right, expected a unread field: PASS
+C3 mutant "wrong amount in a payment block": not right, expected a wrong field: PASS
+C3 mutant "wrong date in a payment block": not right, expected a wrong field: PASS
+C3 mutant "wrong rule code": not right, expected a wrong field: PASS
+C3 mutant "wrong payee text": not right, expected a wrong field: PASS
+C3 mutant "missing report-by line": not right, expected a unread field: PASS
+C3 mutant "wrong script step": not right, expected a wrong field: PASS
+C3 mutant "altered quote": not right, expected a wrong field: PASS
+C3 mutant "wrong letter addressee": not right, expected a wrong field: PASS
+C3 mutant "missing signature line": not right, expected a unread field: PASS
+C3 mutant "missing exhibit": not right, expected a wrong field: PASS
+C3 mutant "missing page": not right, expected a unread field: PASS
+C3 mutant "wrong status": not right, expected a wrong field: PASS
+C3 mutant "scam number in Number to call": not right, expected a wrong field: PASS
+C3 mutant "stop-list item missing": not right, expected a wrong field: PASS
+C3 mutant "wrong camera decision": not right, expected a wrong field: PASS
+C4 correct reply: right (255 right, 0 wrong, 0 unread) PASS
+C4 reformatted (case, bold, commas, bullets, list order): right PASS
+C4 mutant "wrong total": not right, expected a wrong field: PASS
+C4 mutant "wrong dispute count": not right, expected a wrong field: PASS
+C4 mutant "missing dispute-count line": not right, expected a unread field: PASS
+C4 mutant "wrong amount in a payment block": not right, expected a wrong field: PASS
+C4 mutant "wrong date in a payment block": not right, expected a wrong field: PASS
+C4 mutant "wrong rule code": not right, expected a wrong field: PASS
+C4 mutant "wrong payee text": not right, expected a wrong field: PASS
+C4 mutant "missing report-by line": not right, expected a unread field: PASS
+C4 mutant "wrong script step": not right, expected a wrong field: PASS
+C4 mutant "altered quote": not right, expected a wrong field: PASS
+C4 mutant "wrong letter addressee": not right, expected a wrong field: PASS
+C4 mutant "missing signature line": not right, expected a unread field: PASS
+C4 mutant "missing exhibit": not right, expected a wrong field: PASS
+C4 mutant "missing page": not right, expected a unread field: PASS
+C4 mutant "wrong status": not right, expected a wrong field: PASS
+C4 mutant "stop-list item missing": not right, expected a wrong field: PASS
+C5 correct reply: right (6 right, 0 wrong, 0 unread) PASS
+C5 mutant "pages written though none asked": not right: PASS
+C5 mutant "status PAGES": not right: PASS
+C5 mutant "result line missing": not right: PASS
+R1 bank letter named LETTER-NORTHVALE-BANK.md is read as the bank letter: right PASS
+R1 bank letter named LETTER-BANK-NORTHVALE.md is read as the bank letter: right PASS
+R1 bank letter named LETTER-NORTHVALE.md is read as the bank letter: right PASS
+R1 a page named LETTER-POLICE-X is not read as the bank letter (police letter stays unread): not right PASS
+R2 stop-list item named by one word and another evidence file: right PASS
+R2 stop-list item absent from the page is not found: not right PASS
+R3 known camera events with Snapshot "not asked" match on camera and time: right PASS
+R3 camera event with another time is not found: not right PASS
+R4 one of two keyed steps is right: right PASS
+R4 a step outside the key set is wrong: not right PASS
+R4 untagged where the key has steps is wrong: not right PASS
+R5 time with a bracket note "(time of day not given)": right PASS
+R5 quote followed by a bracket note: right PASS
+R5 a bracket note does not repair an altered quote: not right PASS
+R6 card uses in another order with extra text: right PASS
+R6 a missing card use is wrong: not right PASS
+R6 fees asked as amount and the word release with extra text: right PASS
+R6 fees asked with another amount is wrong: not right PASS
+R7 include null, sentence written: right PASS
+R7 include null, sentence left out: right PASS
+R8 LEDGER.md without a header: right PASS
+R8 another page without a header label is wrong: not right PASS
+K5 O1 rows named on the timeline-only line (either leg is enough): right PASS
+K5 the timeline-only line missing is unread: not right PASS
+K5 wrong O1 row is wrong: not right PASS
+K3 the unsettled sentence rewritten is wrong: not right PASS
+R9 an extra stop-list item (the parent's own card) is not wrong: right PASS
+R10 "Reported by:" with an empty value is blank: right PASS
+R10 "Holder signature:" with a name is wrong: not right PASS
+R11 courier announcement naming both voicemails: right PASS
+R11 courier announcement naming only the other voicemail is wrong: not right PASS
+R12 START asked-not-followed names the file with its own words: right PASS
+R12 START asked-not-followed without the file is wrong: not right PASS
+R13 gift cards: count, amount and dates in other words: right PASS
+R13 gift cards with another amount is wrong: not right PASS
+R14 a sentence with two settled answers written as one block: right PASS
+R15 Script seen "Script A (bank impersonation)": right PASS
+R15 Script seen with another letter is wrong: not right PASS
+K11 voicemail Time source "file name": right PASS
+K11 voicemail Time source "file time": right PASS
+K11 voicemail Time source "camera" is wrong: not right PASS
+K10 gift-card photo Channel "screen" is wrong: not right PASS
+K12 gift-card row coded D3 where a contact names the merchant is wrong: not right PASS
+K13 voicemail tagged "A2, A3": right PASS
+K13 voicemail tagged "A2" alone (a subset): right PASS
+K13 refund-with-number text left untagged is wrong: not right PASS
+R16 gift cards: "3, 450.00 CAD in total, 2026-10-27 (2) and 2026-10-28 (1)": right PASS
+R17 app and session code in one block ("SafeFix Connect, session code ending 0593"): right PASS
+R18 quote with "ending 0593" for the full session code: right PASS
+R18 quote with "ending 9999" is wrong: not right PASS
+R19 Do first tonight with the card-photo number and install nothing: right PASS
+R19 Do first tonight without install nothing is wrong: not right PASS
+R20 Link rule "none (D2 does not need L1)": right PASS
+K15 gift-card statement row left untagged is wrong: not right PASS
+K16 ledger without the "not run" line of step 8 is wrong: not right PASS
+K17 IMG_receipt.jpg tagged C3 is right: right PASS
+PF1 page marker "===" then the page name on the next line: right PASS
+PF1 a "===" line followed by prose is not a page marker: not right PASS
+PF3 step 1 "not said before step 2" is wrong: not right PASS
+PF3 step 3 "mkdir and ledger append not sent" is wrong: not right PASS
+PF3 step 12 "copy, mkdir and ledger writes were not sent" is wrong: not right PASS
+PF3 step 12 "Tag-add not sent" does not fail the copy check: right PASS
+PF4 quote without the speaker label "Elena: ": right PASS
+PF4 quote with other words after the label is wrong: not right PASS
+PF5 voice note Time source "file name": right PASS
+PF5 voice note Time source "camera" is wrong: not right PASS
+PF7 "0 payments to dispute ... no contact found" is the no-match result: right PASS
+PF7 "0 payments to dispute" alone is not enough: not right PASS
+K7 C5 closing report states no payment matched in the step 13 text: right PASS
+K7 C5 step 13 not reached is wrong: not right PASS
+K7 C5 drafts not shown is wrong: not right PASS
+C1-V2-yes2-declined correct: right PASS
+C1-V2-yes2-declined K7 closing result missing: not right PASS
+C1-V2-yes2-declined K7 step 3 writes not sent: not right PASS
+C1-V2-yes2-declined K7 drafts not shown: not right PASS
+C1-V2-yes2-declined PF8 closing report lists the three payments without the total or the words "3 payments": right PASS
+C1-V2-yes2-declined PF8 closing report lists only two of the payments: not right PASS
+C1-V2-yes2-declined PF9 an omission about the ledger in the step 11 text does not fail "drafts shown": right PASS
+C1-V2-yes2-declined PF9 step 1 "not stated" fails the log check: not right PASS
+C1-V3-transcription-failed correct: right PASS
+C1-V3-transcription-failed K8 voicemail not marked: not right PASS
+C1-V3-transcription-failed K8 row 2026-10-15 stays D1: not right PASS
+C1-V3-transcription-failed K8 stop list not finished missing: not right PASS
+C1-V4-statement-failed correct: right PASS
+C1-V4-statement-failed K8 stopped with no pages: not right PASS
+C1-V4-statement-failed K8 month not named: not right PASS
+C1-V4-statement-failed K8 GAPS page missing: not right PASS
+C1-V5-copy-declined correct: right PASS
+C1-V5-copy-declined K8 declined copy still marked match: not right PASS
+C1-V5-copy-declined K8 letters still list the declined copy: not right PASS
+C1-V6-ledger-edited correct (the host is not required to name the break): right PASS
+C1-V6-ledger-edited dispute count wrong: not right PASS
+C1-V7-one-folder correct: right PASS
+C1-V7-one-folder K8 a voicemail still in the timeline: not right PASS
+C1-V7-one-folder K8 rows not decided D4: not right PASS
+C1-V7-one-folder K8 a File field that says a folder was not read is not a read: right PASS
+C1-V1-resume correct: right PASS

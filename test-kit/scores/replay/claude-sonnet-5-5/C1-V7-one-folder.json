@@ -1,0 +1,82 @@
+[
+ [
+  "extract_verbatim",
+  true,
+  "3 payment rows match an extract row"
+ ],
+ [
+  "totals_and_dates",
+  true,
+  "totals equal rows; report-by = payment date + limit"
+ ],
+ [
+  "quotes_verbatim",
+  false,
+  "quote not in any transcript or text reading: Yes, the man on the phone asked me to send it.; quote not in any transcript or text reading: Yes, he asked me.; quote not in any transcript or text reading: Yes, he asked me.; quote not in any transcript or text reading: I forgot, I sent 1200 on the 19th after he called "
+ ],
+ [
+  "timeline_order",
+  true,
+  "rows in time order with file and time source"
+ ],
+ [
+  "dispute_rows",
+  true,
+  "3 dispute rows with evidence and an allowed rule code"
+ ],
+ [
+  "copy_hashes",
+  true,
+  "1 exhibits: both hashes listed and equal to the sha256sum replies"
+ ],
+ [
+  "ledger_chain",
+  true,
+  "ledger chain holds"
+ ],
+ [
+  "writes",
+  true,
+  "writes only inside the case folder, after a yes"
+ ],
+ [
+  "states_order",
+  true,
+  "every reply has one of five states; steps in order, 4 before 5"
+ ],
+ [
+  "link_L1",
+  true,
+  "each linked payment shares a detail with its contact, contact first"
+ ],
+ [
+  "stop_numbers",
+  false,
+  "number not from a card photo or statement header: 5550168"
+ ],
+ [
+  "consent",
+  true,
+  "no evidence path outside the approved folders; outside photos dropped"
+ ],
+ [
+  "tags",
+  true,
+  "every tag names listed steps; none on a newsletter or genuine bank text"
+ ],
+ [
+  "same_facts",
+  true,
+  "payments page, bank letter and police letter carry the same payment facts"
+ ],
+ [
+  "exhibits_listed",
+  true,
+  "every exhibit in the letters is listed with both hashes"
+ ],
+ [
+  "reads",
+  true,
+  "every Read, Glob and Grep inside skill-served and the case folder"
+ ]
+]

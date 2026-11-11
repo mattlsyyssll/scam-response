@@ -1,0 +1,171 @@
+state: completed
+expert: document-agent
+action: ug-document extract
+--- /volume1/Documents/Family/Statements/lakeshore-2025-09.pdf
+Statement state: completed
+Period: 2025-09-01 to 2025-09-30
+Row: 2025-09-03 | GREEN MARKET | 79.81 | debit | CAD | 2208
+Row: 2025-09-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2025-09-12 | HYDRO UTILITY | 89.26 | debit | CAD | 2208
+Row: 2025-09-14 | GREEN MARKET | 31.43 | debit | CAD | 2208
+Row: 2025-09-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2025-10.pdf
+Statement state: completed
+Period: 2025-10-01 to 2025-10-31
+Row: 2025-10-03 | GREEN MARKET | 84.33 | debit | CAD | 2208
+Row: 2025-10-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2025-10-12 | HYDRO UTILITY | 85.25 | debit | CAD | 2208
+Row: 2025-10-14 | GREEN MARKET | 56.35 | debit | CAD | 2208
+Row: 2025-10-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2025-11.pdf
+Statement state: completed
+Period: 2025-11-01 to 2025-11-30
+Row: 2025-11-03 | GREEN MARKET | 74.10 | debit | CAD | 2208
+Row: 2025-11-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2025-11-12 | HYDRO UTILITY | 97.81 | debit | CAD | 2208
+Row: 2025-11-14 | GREEN MARKET | 48.50 | debit | CAD | 2208
+Row: 2025-11-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2025-12.pdf
+Statement state: completed
+Period: 2025-12-01 to 2025-12-31
+Row: 2025-12-03 | GREEN MARKET | 56.86 | debit | CAD | 2208
+Row: 2025-12-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2025-12-12 | HYDRO UTILITY | 74.40 | debit | CAD | 2208
+Row: 2025-12-14 | GREEN MARKET | 42.27 | debit | CAD | 2208
+Row: 2025-12-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-01.pdf
+Statement state: completed
+Period: 2026-01-01 to 2026-01-31
+Row: 2026-01-03 | GREEN MARKET | 56.37 | debit | CAD | 2208
+Row: 2026-01-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-01-12 | HYDRO UTILITY | 93.39 | debit | CAD | 2208
+Row: 2026-01-14 | GREEN MARKET | 53.09 | debit | CAD | 2208
+Row: 2026-01-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-02.pdf
+Statement state: completed
+Period: 2026-02-01 to 2026-02-28
+Row: 2026-02-03 | GREEN MARKET | 54.71 | debit | CAD | 2208
+Row: 2026-02-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-02-12 | HYDRO UTILITY | 86.06 | debit | CAD | 2208
+Row: 2026-02-14 | GREEN MARKET | 66.55 | debit | CAD | 2208
+Row: 2026-02-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-03.pdf
+Statement state: completed
+Period: 2026-03-01 to 2026-03-31
+Row: 2026-03-03 | GREEN MARKET | 80.32 | debit | CAD | 2208
+Row: 2026-03-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-03-12 | HYDRO UTILITY | 89.90 | debit | CAD | 2208
+Row: 2026-03-14 | GREEN MARKET | 30.25 | debit | CAD | 2208
+Row: 2026-03-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-04.pdf
+Statement state: completed
+Period: 2026-04-01 to 2026-04-30
+Row: 2026-04-03 | GREEN MARKET | 63.38 | debit | CAD | 2208
+Row: 2026-04-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-04-12 | HYDRO UTILITY | 87.76 | debit | CAD | 2208
+Row: 2026-04-14 | GREEN MARKET | 66.06 | debit | CAD | 2208
+Row: 2026-04-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-05.pdf
+Statement state: completed
+Period: 2026-05-01 to 2026-05-31
+Row: 2026-05-03 | GREEN MARKET | 69.30 | debit | CAD | 2208
+Row: 2026-05-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-05-12 | HYDRO UTILITY | 81.50 | debit | CAD | 2208
+Row: 2026-05-14 | GREEN MARKET | 66.66 | debit | CAD | 2208
+Row: 2026-05-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-06.pdf
+Statement state: completed
+Period: 2026-06-01 to 2026-06-30
+Row: 2026-06-03 | GREEN MARKET | 77.95 | debit | CAD | 2208
+Row: 2026-06-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-06-12 | HYDRO UTILITY | 96.25 | debit | CAD | 2208
+Row: 2026-06-14 | GREEN MARKET | 57.86 | debit | CAD | 2208
+Row: 2026-06-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-07.pdf
+Statement state: completed
+Period: 2026-07-01 to 2026-07-31
+Row: 2026-07-03 | GREEN MARKET | 59.98 | debit | CAD | 2208
+Row: 2026-07-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-07-12 | HYDRO UTILITY | 91.79 | debit | CAD | 2208
+Row: 2026-07-14 | GREEN MARKET | 34.19 | debit | CAD | 2208
+Row: 2026-07-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-08.pdf
+Statement state: completed
+Period: 2026-08-01 to 2026-08-31
+Row: 2026-08-03 | GREEN MARKET | 80.71 | debit | CAD | 2208
+Row: 2026-08-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-08-12 | HYDRO UTILITY | 79.12 | debit | CAD | 2208
+Row: 2026-08-14 | GREEN MARKET | 69.86 | debit | CAD | 2208
+Row: 2026-08-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-09.pdf
+Statement state: completed
+Period: 2026-09-01 to 2026-09-30
+Row: 2026-09-03 | GREEN MARKET | 59.44 | debit | CAD | 2208
+Row: 2026-09-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-09-12 | HYDRO UTILITY | 70.46 | debit | CAD | 2208
+Row: 2026-09-14 | GREEN MARKET | 52.88 | debit | CAD | 2208
+Row: 2026-09-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 5 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-10.pdf
+Statement state: completed
+Period: 2026-10-01 to 2026-10-31
+Row: 2026-10-03 | GREEN MARKET | 69.96 | debit | CAD | 2208
+Row: 2026-10-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Row: 2026-10-12 | HYDRO UTILITY | 88.22 | debit | CAD | 2208
+Row: 2026-10-14 | GREEN MARKET | 62.12 | debit | CAD | 2208
+Row: 2026-10-26 | TRANSFER FROM CHEQUING 2208 | 2000.00 | credit | CAD | 3317
+Row: 2026-10-26 | TRANSFER TO SAVINGS 3317 | 2000.00 | debit | CAD | 2208
+Row: 2026-10-27 | GIFTCARD DEPOT 118 | 150.00 | debit | CAD | 6035
+Row: 2026-10-27 | GIFTCARD DEPOT 118 | 150.00 | debit | CAD | 6035
+Row: 2026-10-27 | SAFEFIX SUPPORT PLAN | 299.00 | debit | CAD | 6035
+Row: 2026-10-28 | GIFTCARD DEPOT 118 | 150.00 | debit | CAD | 6035
+Row: 2026-10-28 | PENSION DEPOSIT | 1900.00 | credit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 11 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/lakeshore-2026-11.pdf
+Statement state: completed
+Period: 2026-11-01 to 2026-11-10
+Row: 2026-11-03 | GREEN MARKET | 59.29 | debit | CAD | 2208
+Row: 2026-11-08 | AVGUARD ANTIVIRUS | 9.99 | debit | CAD | 2208
+Header text as read: Lakeshore Credit Union, customer service 1-800-555-0163
+Coverage: all pages read, 2 rows
+Failure reason: none

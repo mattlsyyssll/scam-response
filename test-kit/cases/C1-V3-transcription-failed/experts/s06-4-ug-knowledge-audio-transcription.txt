@@ -1,0 +1,27 @@
+state: failed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Voicemail/vm-2026-10-11-1830.m4a
+Recording state: completed
+transcriptText: Hi Mum, it is Dana. Are you free for dinner on Sunday. Call me when you can
+Segments:
+  [00:00] Hi Mum, it is Dana.
+  [00:09] Are you free for dinner on Sunday.
+  [00:18] Call me when you can.
+Quality: good
+Failure reason: none
+--- /volume1/Voicemail/vm-2026-10-15-0840.m4a
+Recording state: failed
+transcriptText: none
+Segments: none
+Quality: none
+Failure reason: the audio could not be decoded
+--- /volume1/Voicemail/vm-2026-10-19-0755.m4a
+Recording state: completed
+transcriptText: The transfer did not clear. Send twelve hundred more to the same account 55213390 today. Do not tell anyone
+Segments:
+  [00:00] The transfer did not clear.
+  [00:09] Send twelve hundred more to the same account 55213390 today.
+  [00:18] Do not tell anyone.
+Quality: good
+Failure reason: none

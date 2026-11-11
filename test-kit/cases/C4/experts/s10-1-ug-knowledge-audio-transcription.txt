@@ -1,0 +1,13 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Homes/walter/Voice memos/tells-it.m4a
+Recording state: completed
+transcriptText: I met Elena in August and I sent her about 8000 for the investment in three goes and I paid a fee in November, 4350 and My balance is 48120 now.
+Segments:
+  [00:00] I met Elena in August.
+  [00:07] I sent her about 8000 for the investment in three goes.
+  [00:14] I paid a fee in November, 4350.
+  [00:21] My balance is 48120 now.
+Quality: good
+Failure reason: none

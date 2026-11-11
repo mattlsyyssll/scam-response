@@ -1,0 +1,22 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Voicemail/vm-2026-11-02-1630.m4a
+Recording state: completed
+transcriptText: This is Detective Hale of the police. Your card has been cloned. Do not tell anyone, not your bank or your family. A courier will collect your debit card and your credit card tomorrow at eleven. Call me back on 555-0133
+Segments:
+  [00:00] This is Detective Hale of the police.
+  [00:09] Your card has been cloned.
+  [00:18] Do not tell anyone, not your bank or your family.
+  [00:27] A courier will collect your debit card and your credit card tomorrow at eleven.
+  [00:36] Call me back on 555-0133.
+Quality: good
+Failure reason: none
+--- /volume1/Voicemail/vm-2026-11-03-0950.m4a
+Recording state: completed
+transcriptText: The courier will be at your door at eleven. Hand over the cards and write down the PIN for him
+Segments:
+  [00:00] The courier will be at your door at eleven.
+  [00:09] Hand over the cards and write down the PIN for him.
+Quality: good
+Failure reason: none

@@ -1,0 +1,5 @@
+state: completed
+expert: document-agent
+action: ug-document reconcile
+New payee: none
+Explained: BRIGHT PIPE PLUMBING | invoice /volume1/Documents/Family/Invoices/plumber-invoice-2207.pdf | rows used:

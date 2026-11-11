@@ -1,0 +1,7 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plates
+--- JKL 5502
+Time: 2026-11-05 17:00
+Camera: Driveway
+Known vehicle: yes

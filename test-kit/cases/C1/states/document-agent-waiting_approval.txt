@@ -1,0 +1,4 @@
+state: waiting_approval
+expert: document-agent
+action: ug-document extract
+write: ug-filesystem cpmv of one exhibit into the case folder, waiting for platform approval

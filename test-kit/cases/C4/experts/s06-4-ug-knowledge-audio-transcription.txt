@@ -1,0 +1,12 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Voicemail/voice-note-elena-2026-11-03.m4a
+Recording state: completed
+transcriptText: Walter, my love. To release your money you must pay a release fee of 4350 to account 90417712 name AURELIS HOLDINGS. Do it today
+Segments:
+  [00:00] Walter, my love.
+  [00:09] To release your money you must pay a release fee of 4350 to account 90417712 name AURELIS HOLDINGS.
+  [00:18] Do it today.
+Quality: poor
+Failure reason: none

@@ -1,0 +1,183 @@
+state: completed
+expert: document-agent
+action: ug-document extract
+--- /volume1/Documents/Family/Statements/harbourline-2025-10.pdf
+Statement state: completed
+Period: 2025-10-01 to 2025-10-31
+Row: 2025-10-05 | GREEN MARKET | 46.24 | debit | CAD | 7714
+Row: 2025-10-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-10-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-10-18 | GREEN MARKET | 84.45 | debit | CAD | 7714
+Row: 2025-10-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-10-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2025-10-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2025-11.pdf
+Statement state: completed
+Period: 2025-11-01 to 2025-11-30
+Row: 2025-11-05 | GREEN MARKET | 82.62 | debit | CAD | 7714
+Row: 2025-11-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-11-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-11-18 | GREEN MARKET | 69.99 | debit | CAD | 7714
+Row: 2025-11-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-11-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2025-11-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2025-12.pdf
+Statement state: completed
+Period: 2025-12-01 to 2025-12-31
+Row: 2025-12-05 | GREEN MARKET | 52.12 | debit | CAD | 7714
+Row: 2025-12-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-12-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-12-18 | GREEN MARKET | 41.15 | debit | CAD | 7714
+Row: 2025-12-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2025-12-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2025-12-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-01.pdf
+Statement state: completed
+Period: 2026-01-01 to 2026-01-31
+Row: 2026-01-05 | GREEN MARKET | 89.99 | debit | CAD | 7714
+Row: 2026-01-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-01-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-01-18 | GREEN MARKET | 54.97 | debit | CAD | 7714
+Row: 2026-01-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-01-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-01-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-02.pdf
+Statement state: completed
+Period: 2026-02-01 to 2026-02-28
+Row: 2026-02-05 | GREEN MARKET | 62.05 | debit | CAD | 7714
+Row: 2026-02-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-02-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-02-18 | GREEN MARKET | 41.03 | debit | CAD | 7714
+Row: 2026-02-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-02-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-02-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-03.pdf
+Statement state: completed
+Period: 2026-03-01 to 2026-03-31
+Row: 2026-03-05 | GREEN MARKET | 56.59 | debit | CAD | 7714
+Row: 2026-03-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-03-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-03-18 | GREEN MARKET | 60.16 | debit | CAD | 7714
+Row: 2026-03-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-03-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-03-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-04.pdf
+Statement state: completed
+Period: 2026-04-01 to 2026-04-30
+Row: 2026-04-05 | GREEN MARKET | 75.01 | debit | CAD | 7714
+Row: 2026-04-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-04-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-04-18 | GREEN MARKET | 87.49 | debit | CAD | 7714
+Row: 2026-04-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-04-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-04-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-05.pdf
+Statement state: completed
+Period: 2026-05-01 to 2026-05-31
+Row: 2026-05-05 | GREEN MARKET | 50.89 | debit | CAD | 7714
+Row: 2026-05-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-05-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-05-18 | GREEN MARKET | 60.40 | debit | CAD | 7714
+Row: 2026-05-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-05-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-05-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-06.pdf
+Statement state: completed
+Period: 2026-06-01 to 2026-06-30
+Row: 2026-06-05 | GREEN MARKET | 50.22 | debit | CAD | 7714
+Row: 2026-06-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-06-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-06-18 | GREEN MARKET | 71.90 | debit | CAD | 7714
+Row: 2026-06-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-06-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-06-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-07.pdf
+Statement state: completed
+Period: 2026-07-01 to 2026-07-31
+Row: 2026-07-05 | GREEN MARKET | 71.97 | debit | CAD | 7714
+Row: 2026-07-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-07-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-07-18 | GREEN MARKET | 78.11 | debit | CAD | 7714
+Row: 2026-07-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-07-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-07-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-08.pdf
+Statement state: completed
+Period: 2026-08-01 to 2026-08-31
+Row: 2026-08-05 | GREEN MARKET | 63.37 | debit | CAD | 7714
+Row: 2026-08-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-08-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-08-18 | GREEN MARKET | 72.26 | debit | CAD | 7714
+Row: 2026-08-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-08-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-08-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-09.pdf
+Statement state: completed
+Period: 2026-09-01 to 2026-09-30
+Row: 2026-09-05 | GREEN MARKET | 54.41 | debit | CAD | 7714
+Row: 2026-09-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-09-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-09-18 | GREEN MARKET | 57.54 | debit | CAD | 7714
+Row: 2026-09-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-09-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-09-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-10.pdf
+Statement state: completed
+Period: 2026-10-01 to 2026-10-31
+Row: 2026-10-05 | GREEN MARKET | 60.74 | debit | CAD | 7714
+Row: 2026-10-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-10-14 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-10-18 | GREEN MARKET | 58.74 | debit | CAD | 7714
+Row: 2026-10-21 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Row: 2026-10-25 | PENSION DEPOSIT | 1500.00 | credit | CAD | 2086
+Row: 2026-10-28 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 7 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/harbourline-2026-11.pdf
+Statement state: completed
+Period: 2026-11-01 to 2026-11-10
+Row: 2026-11-03 | JEWELLERS PRIME | 1250.00 | debit | CAD | 2086
+Row: 2026-11-03 | TECHMART ELECTRONICS | 899.00 | debit | CAD | 7714
+Row: 2026-11-04 | CASH ATM MAIN ST | 600.00 | debit | CAD | 2086
+Row: 2026-11-05 | GREEN MARKET | 75.77 | debit | CAD | 7714
+Row: 2026-11-07 | ATM WITHDRAWAL OAK ST | 100.00 | debit | CAD | 2086
+Header text as read: Harbourline Bank, customer service 1-800-555-0184
+Coverage: all pages read, 5 rows
+Failure reason: none

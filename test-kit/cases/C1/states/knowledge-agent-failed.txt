@@ -1,0 +1,4 @@
+state: failed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+error: the source could not be read

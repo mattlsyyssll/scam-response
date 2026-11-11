@@ -1,0 +1,9 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance cameras
+--- Front door
+Identifier: cam-front-01
+Online: yes
+--- Driveway
+Identifier: cam-drive-02
+Online: yes

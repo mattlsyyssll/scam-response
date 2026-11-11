@@ -1,0 +1,27 @@
+state: completed
+expert: photo-agent
+action: ug-photo meta
+--- /volume1/Photos/Phone/2026-10/Screenshot_2026-10-26-1340.png
+Capture time: 2026-10-26 13:40
+File size: 66252 bytes
+--- /volume1/Photos/Phone/2026-10/Screenshot_2026-10-26-1402.png
+Capture time: 2026-10-26 14:02
+File size: 48680 bytes
+--- /volume1/Photos/Phone/2026-10/Screenshot_2026-10-27-1015.png
+Capture time: 2026-10-27 10:15
+File size: 29830 bytes
+--- /volume1/Photos/Phone/2026-10/Screenshot_2026-10-27-1130.png
+Capture time: 2026-10-27 11:30
+File size: 69200 bytes
+--- /volume1/Photos/Phone/2026-09/card-back.jpg
+Capture time: 2026-09-28 16:20
+File size: 50965 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_gift-cards.jpg
+Capture time: 2026-10-27 12:40
+File size: 49629 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_garden.jpg
+Capture time: 2026-10-22 15:00
+File size: 68208 bytes
+--- /volume1/Photos/Other/IMG_0001.png
+Capture time: 2026-10-20 09:00
+File size: 44704 bytes

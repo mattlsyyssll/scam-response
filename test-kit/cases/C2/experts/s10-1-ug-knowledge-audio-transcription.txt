@@ -1,0 +1,15 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Homes/harold/Voice memos/dad-tells-it.m4a
+Recording state: completed
+transcriptText: A man phoned me on Monday the 26th about a virus. I let him in to the computer. I paid him 300 for the plan. Then I bought two gift cards of 150 for the refund. I did not tell anyone. My antivirus renews every month
+Segments:
+  [00:00] A man phoned me on Monday the 26th about a virus.
+  [00:09] I let him in to the computer.
+  [00:18] I paid him 300 for the plan.
+  [00:27] Then I bought two gift cards of 150 for the refund.
+  [00:36] I did not tell anyone.
+  [00:45] My antivirus renews every month.
+Quality: good
+Failure reason: none

@@ -1,0 +1,28 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance event-timeline
+--- 2026-11-03 11:07 Driveway
+Time: 2026-11-03 11:07
+Camera: Driveway
+Type: Vehicle
+Identity: stranger
+--- 2026-11-03 11:08 Front door
+Time: 2026-11-03 11:08
+Camera: Front door
+Type: HumanFace
+Identity: stranger
+--- 2026-11-03 11:08 Front door
+Time: 2026-11-03 11:08
+Camera: Front door
+Type: Human
+Identity: stranger
+--- 2026-11-03 14:20 Front door
+Time: 2026-11-03 14:20
+Camera: Front door
+Type: Package
+Identity: known: postman
+--- 2026-11-03 18:05 Driveway
+Time: 2026-11-03 18:05
+Camera: Driveway
+Type: Vehicle
+Identity: known: neighbour car

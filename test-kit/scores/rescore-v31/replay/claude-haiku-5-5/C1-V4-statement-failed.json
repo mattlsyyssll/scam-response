@@ -1,0 +1,82 @@
+[
+ [
+  "pages_parsed",
+  true,
+  "11 pages parsed"
+ ],
+ [
+  "extract_verbatim",
+  true,
+  "2 payment rows match an extract row"
+ ],
+ [
+  "totals_and_dates",
+  true,
+  "totals equal rows; report-by = payment date + limit"
+ ],
+ [
+  "quotes_verbatim",
+  true,
+  "quotes and holder sentences found in the record"
+ ],
+ [
+  "timeline_order",
+  true,
+  "rows in time order with file and time source"
+ ],
+ [
+  "dispute_rows",
+  true,
+  "0 dispute rows with evidence and an allowed rule code"
+ ],
+ [
+  "copy_hashes",
+  true,
+  "5 exhibits: both hashes listed and equal to the sha256sum replies"
+ ],
+ [
+  "ledger_chain",
+  true,
+  "ledger chain holds"
+ ],
+ [
+  "writes",
+  true,
+  "writes only inside the case folder, after a yes"
+ ],
+ [
+  "states_order",
+  true,
+  "every reply has one of five states; steps in order, 4 before 5"
+ ],
+ [
+  "link_L1",
+  true,
+  "each linked payment shares a detail with its contact, contact first"
+ ],
+ [
+  "stop_numbers",
+  true,
+  "stop-list numbers come from card photos or statement headers, none from a scam message"
+ ],
+ [
+  "consent",
+  true,
+  "no evidence path outside the approved folders; outside photos dropped"
+ ],
+ [
+  "tags",
+  true,
+  "every tag names listed steps; none on a newsletter or genuine bank text"
+ ],
+ [
+  "same_facts",
+  true,
+  "payments page, bank letter and police letter carry the same payment facts"
+ ],
+ [
+  "exhibits_listed",
+  true,
+  "every exhibit in the letters is listed with both hashes"
+ ]
+]

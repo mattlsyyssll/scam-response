@@ -1,0 +1,4 @@
+state: waiting_user
+expert: photo-agent
+action: ug-photo vision-ocr
+question: Which folder holds the statements for September?

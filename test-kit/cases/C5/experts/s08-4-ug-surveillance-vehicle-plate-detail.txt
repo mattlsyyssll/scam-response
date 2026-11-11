@@ -1,0 +1,8 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plate-detail
+--- JKL 5502
+Plate text: JKL 5502
+Time: 2026-11-05 17:00
+Camera: Driveway
+Snapshot: snap-drive-20261105-1700

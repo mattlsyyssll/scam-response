@@ -1,0 +1,7 @@
+question at step 2 | test-kit/cases/C1/person/step2-answer.txt
+question at step 3 | test-kit/cases/C1/person/step3-consent.txt
+question at step 9 | test-kit/cases/C1/person/step9-ask-answers.txt
+question at step 10 | test-kit/cases/C1/person/step10-account.txt
+question at step 10 | test-kit/cases/C1/person/step10-settle.txt
+question at step 11 | test-kit/cases/C1/person/step11-answer.txt
+question at step 12 | test-kit/cases/C1/person/step12-approvals.txt

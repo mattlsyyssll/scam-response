@@ -1,0 +1,13 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plate-detail
+--- BRT 9921
+Plate text: BRT 9921
+Time: 2026-11-03 11:07
+Camera: Driveway
+Snapshot: snap-drive-20261103-1107
+--- PLM 2207
+Plate text: PLM 2207
+Time: 2026-11-03 18:05
+Camera: Driveway
+Snapshot: snap-drive-20261103-1805

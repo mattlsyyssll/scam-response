@@ -1,0 +1,33 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Voicemail/vm-2026-10-11-1830.m4a
+Recording state: completed
+transcriptText: Hi Mum, it is Dana. Are you free for dinner on Sunday. Call me when you can
+Segments:
+  [00:00] Hi Mum, it is Dana.
+  [00:09] Are you free for dinner on Sunday.
+  [00:18] Call me when you can.
+Quality: good
+Failure reason: none
+--- /volume1/Voicemail/vm-2026-10-15-0840.m4a
+Recording state: completed
+transcriptText: This is the fraud department at Northvale Bank. Your account is under attack. You must move your money to a safe account today. Do not tell anyone, not even your family or the branch. Transfer to account 55213390 in the name JK HOLDINGS. Call me back on 555-0182
+Segments:
+  [00:00] This is the fraud department at Northvale Bank.
+  [00:09] Your account is under attack.
+  [00:18] You must move your money to a safe account today.
+  [00:27] Do not tell anyone, not even your family or the branch.
+  [00:36] Transfer to account 55213390 in the name JK HOLDINGS.
+  [00:45] Call me back on 555-0182.
+Quality: good
+Failure reason: none
+--- /volume1/Voicemail/vm-2026-10-19-0755.m4a
+Recording state: completed
+transcriptText: The transfer did not clear. Send twelve hundred more to the same account 55213390 today. Do not tell anyone
+Segments:
+  [00:00] The transfer did not clear.
+  [00:09] Send twelve hundred more to the same account 55213390 today.
+  [00:18] Do not tell anyone.
+Quality: good
+Failure reason: none

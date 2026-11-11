@@ -1,0 +1,8 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plate-detail
+--- ABC 1180
+Plate text: ABC 1180
+Time: 2026-10-20 17:30
+Camera: Driveway
+Snapshot: snap-drive-20261020-1730

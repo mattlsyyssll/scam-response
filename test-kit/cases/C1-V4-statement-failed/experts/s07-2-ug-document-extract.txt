@@ -1,0 +1,146 @@
+state: failed
+expert: document-agent
+action: ug-document extract
+--- /volume1/Documents/Family/Statements/northvale-2025-09.pdf
+Statement state: completed
+Period: 2025-09-01 to 2025-09-30
+Row: 2025-09-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2025-09-04 | GREEN MARKET | 54.45 | debit | CAD | 4471
+Row: 2025-09-11 | HYDRO UTILITY | 90.86 | debit | CAD | 4471
+Row: 2025-09-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2025-10.pdf
+Statement state: completed
+Period: 2025-10-01 to 2025-10-31
+Row: 2025-10-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2025-10-04 | GREEN MARKET | 50.75 | debit | CAD | 4471
+Row: 2025-10-11 | HYDRO UTILITY | 95.66 | debit | CAD | 4471
+Row: 2025-10-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2025-11.pdf
+Statement state: completed
+Period: 2025-11-01 to 2025-11-30
+Row: 2025-11-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2025-11-04 | GREEN MARKET | 61.26 | debit | CAD | 4471
+Row: 2025-11-11 | HYDRO UTILITY | 95.22 | debit | CAD | 4471
+Row: 2025-11-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2025-12.pdf
+Statement state: completed
+Period: 2025-12-01 to 2025-12-31
+Row: 2025-12-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2025-12-04 | GREEN MARKET | 81.28 | debit | CAD | 4471
+Row: 2025-12-11 | HYDRO UTILITY | 87.05 | debit | CAD | 4471
+Row: 2025-12-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-01.pdf
+Statement state: completed
+Period: 2026-01-01 to 2026-01-31
+Row: 2026-01-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-01-04 | GREEN MARKET | 50.36 | debit | CAD | 4471
+Row: 2026-01-11 | HYDRO UTILITY | 91.63 | debit | CAD | 4471
+Row: 2026-01-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-02.pdf
+Statement state: completed
+Period: 2026-02-01 to 2026-02-28
+Row: 2026-02-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-02-04 | GREEN MARKET | 89.85 | debit | CAD | 4471
+Row: 2026-02-11 | HYDRO UTILITY | 81.21 | debit | CAD | 4471
+Row: 2026-02-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-03.pdf
+Statement state: completed
+Period: 2026-03-01 to 2026-03-31
+Row: 2026-03-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-03-04 | GREEN MARKET | 46.27 | debit | CAD | 4471
+Row: 2026-03-11 | HYDRO UTILITY | 106.62 | debit | CAD | 4471
+Row: 2026-03-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-04.pdf
+Statement state: completed
+Period: 2026-04-01 to 2026-04-30
+Row: 2026-04-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-04-04 | GREEN MARKET | 41.96 | debit | CAD | 4471
+Row: 2026-04-11 | HYDRO UTILITY | 95.48 | debit | CAD | 4471
+Row: 2026-04-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-05.pdf
+Statement state: completed
+Period: 2026-05-01 to 2026-05-31
+Row: 2026-05-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-05-04 | GREEN MARKET | 49.75 | debit | CAD | 4471
+Row: 2026-05-11 | HYDRO UTILITY | 99.06 | debit | CAD | 4471
+Row: 2026-05-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-06.pdf
+Statement state: completed
+Period: 2026-06-01 to 2026-06-30
+Row: 2026-06-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-06-04 | GREEN MARKET | 71.01 | debit | CAD | 4471
+Row: 2026-06-11 | HYDRO UTILITY | 105.51 | debit | CAD | 4471
+Row: 2026-06-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-07.pdf
+Statement state: completed
+Period: 2026-07-01 to 2026-07-31
+Row: 2026-07-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-07-04 | GREEN MARKET | 61.14 | debit | CAD | 4471
+Row: 2026-07-11 | HYDRO UTILITY | 99.24 | debit | CAD | 4471
+Row: 2026-07-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-08.pdf
+Statement state: completed
+Period: 2026-08-01 to 2026-08-31
+Row: 2026-08-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-08-04 | GREEN MARKET | 84.05 | debit | CAD | 4471
+Row: 2026-08-11 | HYDRO UTILITY | 86.97 | debit | CAD | 4471
+Row: 2026-08-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-09.pdf
+Statement state: completed
+Period: 2026-09-01 to 2026-09-30
+Row: 2026-09-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-09-04 | GREEN MARKET | 82.02 | debit | CAD | 4471
+Row: 2026-09-11 | HYDRO UTILITY | 105.27 | debit | CAD | 4471
+Row: 2026-09-26 | PENSION DEPOSIT | 1650.00 | credit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Statement state: failed
+Period: not read
+Coverage: not read
+Failure reason: the PDF could not be opened
+--- /volume1/Documents/Family/Statements/northvale-2026-11.pdf
+Statement state: completed
+Period: 2026-11-01 to 2026-11-10
+Row: 2026-11-01 | E-TRANSFER OUT DANA OKAFOR | 300.00 | debit | CAD | 4471
+Row: 2026-11-04 | GREEN MARKET | 80.76 | debit | CAD | 4471
+Header text as read: Northvale Bank, customer service 1-800-555-0168
+Coverage: all pages read, 2 rows
+Failure reason: none

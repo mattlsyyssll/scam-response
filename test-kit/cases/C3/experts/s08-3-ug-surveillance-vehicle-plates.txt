@@ -1,0 +1,11 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plates
+--- BRT 9921
+Time: 2026-11-03 11:07
+Camera: Driveway
+Known vehicle: no
+--- PLM 2207
+Time: 2026-11-03 18:05
+Camera: Driveway
+Known vehicle: yes

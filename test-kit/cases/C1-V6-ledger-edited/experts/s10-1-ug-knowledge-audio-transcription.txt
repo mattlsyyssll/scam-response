@@ -1,0 +1,16 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Homes/margaret/Voice memos/tells-it.m4a
+Recording state: completed
+transcriptText: The bank texted me on Tuesday the 13th and A man from the fraud department left me a message on the 15th and I moved two thousand dollars to the safe account and Then I moved twenty-five hundred and I paid the plumber 640 for the kitchen tap and I never sent anything after that and My neighbour told me to be careful.
+Segments:
+  [00:00] The bank texted me on Tuesday the 13th.
+  [00:07] A man from the fraud department left me a message on the 15th.
+  [00:14] I moved two thousand dollars to the safe account.
+  [00:21] Then I moved twenty-five hundred.
+  [00:28] I paid the plumber 640 for the kitchen tap.
+  [00:35] I never sent anything after that.
+  [00:42] My neighbour told me to be careful.
+Quality: good
+Failure reason: none

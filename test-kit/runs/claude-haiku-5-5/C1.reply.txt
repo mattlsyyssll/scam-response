@@ -1,0 +1,429 @@
+STATUS: PAGES
+EXPERT CALLS: 42
+
+STEP LOG
+- Step 1: First steps and the 12 disclosures given in plain words before step 2. Checked.
+- Step 2: Home path /volume1/homes/dana. No earlier Scam-Response folder, so no ledger read-back. Two cameras online: front door, driveway. Question: resume or new case. Answer: "Start a new case." Checked.
+- Step 3: Consent answer: folders /volume1/Documents/Family and /volume1/Voicemail, photos /volume1/Photos/Phone, both cameras, 2026-09-15 to 2026-11-12. Yes 1 given. mkdir and ledger line 1 done. Checked.
+- Step 4: Photo search: 4 found, 1 dropped (outside approved folder). OCR, audio (3 recordings) and camera timeline (2 known events) completed. Stop list shown before step 5: card ending 4471, number 1-800-555-0119 from card photo. Ledger line 2. Checked.
+- Step 5: Collect-evidence coverage lacked Voicemail and Photos. Resent once; same stored reply; gap recorded. One asked-not-followed line. Contacts listed. Redone once. Ledger line 3.
+- Step 6: Search found 3 images; IMG_2064 read and dated; recordings not reread. Checked. Ledger line 4.
+- Step 7: 15 statements, 65 rows, no gap; 5 new payees. Plumber explained by /volume1/Documents/Family/Invoices/plumber-invoice-2207.pdf, which the expert found in an approved folder. Dispute total 5500.00 CAD. Checked. Ledger line 5.
+- Step 8: Not run. No contact names a visit, collection or day. Ledger line 6 marked not run.
+- Step 9: Question on ZENITH TICKETS 120.00 CAD (2026-10-16). Answer: "No, nobody asked me. I bought concert tickets for my sister myself." Left out as normal, A1. Tags checked. Ledger line 7.
+- Step 10: Parent typed her account. 7 sentences: 3 disagree, 3 supported, 1 not found. Settled: "It was Wednesday the 14th."; "It was 1800, I remember now."; "I forgot, I sent 1200 on the 19th after he called again." Ledger line 8.
+- Step 11: Drafts shown in chat. Yes 2 answer: "Yes 2. Copy the two voicemails, the text screenshot, the note photo and the October statement. Folder name Scam-Response-2026-11-12. Bank: Northvale Bank. Yes, tag the originals 'scam-evidence'." Card photo not copied.
+- Step 12: waiting_approval for mkdir of exhibit folders. Answer: "Approve every write." Then five copies (never moved), hash check: all five match. Tag "scam-evidence" on five originals. Letter writing: no stored reply; resent once, still none; plain frame used for the bank letter. Ten pages saved. Ledger line 9. Checked.
+- Step 13: Report given: folder, stop list, 5500.00 CAD, report-by dates, gaps, next step. Nothing sent.
+
+Note on writes: LEDGER.md has nine lines appended in this run (steps 3 to 10 and 12). Ledger hashes shown as "not given" as instructed. No CAMERA page written (step 8 not run).
+
+=== START-HERE.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+What happened: A caller who said he was from the Northvale Bank fraud department left voicemails and asked Margaret to move money to account 55213390 (JK HOLDINGS). Disputed: 1800.00 CAD on 2026-10-15, 2500.00 CAD on 2026-10-16, 1200.00 CAD on 2026-10-19.
+Do first tonight: call the bank on the number on the back of the card; install nothing
+For the parent: Call Northvale on the number on the back of your card. Send no more money. Nothing here is your fault.
+For the helper: Read the two letters with Margaret, then send them yourselves. Keep this folder.
+Payments to dispute: 3
+Total to dispute: 5500.00 CAD
+Questions for the holder: none
+Gaps in the evidence: savings account 9902 statements are not in the folder. No later call or message after 2026-10-19 was found.
+Months without a statement: none
+Letters to send: LETTER-BANK-NORTHVALE.md (Northvale Bank); LETTER-POLICE.md (police)
+Sources not read: none
+Asked, not followed: /volume1/Documents/Family/Statements/northvale-2026-10.pdf, [passage omitted], not followed.
+Not done by this assistant: nothing sent, no money moved, no originals changed
+Check your bank's and country's rules for reporting limits.
+Account named by the caller: 55213390, JK HOLDINGS
+First text or voicemail: /volume1/Photos/Phone/2026-10/IMG_2041.png, 2026-10-14 17:20 (printed in message)
+Caller number and name used: 555-0126 and 555-0182 (quoted, never to call); "fraud department at Northvale Bank" (no personal name given)
+
+=== STOP-LIST.md
+Found in the files read (final at step 13; no source failed)
+Item: Northvale chequing card
+Last four digits or name: ending 4471
+File: /volume1/Photos/Phone/2026-09/card-front.jpg
+What is exposed: card number ending 4471 and the card name, in a phone photo
+What to do: call the bank on the number on the back of the card; change; remove
+Number to call: 1-800-555-0119
+Safe number source: card photo
+Login or one-time code found in the files read: none
+
+=== PAYMENTS-TO-DISPUTE.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+Row: 1
+Date: 2026-10-15
+Payee as shown: E-TRANSFER OUT 55213390 JK HOLDINGS
+Amount: 1800.00
+Currency: CAD
+Account: 4471
+Statement file: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Days since payment: 28
+Report-by date: 2026-12-14
+Contact that asked for it: /volume1/Voicemail/vm-2026-10-15-0840.m4a, 2026-10-15 08:40, "Transfer to account 55213390 in the name JK HOLDINGS... Do not tell anyone"; detail shared: account 55213390, JK HOLDINGS
+Link rule: L1 (55213390 and JK HOLDINGS in both)
+Rule code: D1
+Evidence: voicemail and statement row
+Decision: dispute
+Holder answer: none
+
+Row: 2
+Date: 2026-10-16
+Payee as shown: E-TRANSFER OUT 55213390 JK HOLDINGS
+Amount: 2500.00
+Currency: CAD
+Account: 4471
+Statement file: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Days since payment: 27
+Report-by date: 2026-12-15
+Contact that asked for it: /volume1/Voicemail/vm-2026-10-15-0840.m4a, 2026-10-15 08:40 (same request)
+Link rule: L1 (55213390 and JK HOLDINGS in both)
+Rule code: D1
+Evidence: voicemail and statement row
+Decision: dispute
+Holder answer: none
+
+Row: 3
+Date: 2026-10-19
+Payee as shown: E-TRANSFER OUT 55213390 JK HOLDINGS
+Amount: 1200.00
+Currency: CAD
+Account: 4471
+Statement file: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Days since payment: 24
+Report-by date: 2026-12-18
+Contact that asked for it: /volume1/Voicemail/vm-2026-10-19-0755.m4a, 2026-10-19 07:55, "Send twelve hundred more to the same account 55213390 today. Do not tell anyone."
+Link rule: L1 (55213390 in both)
+Rule code: D1
+Evidence: voicemail and statement row
+Decision: dispute
+Holder answer: none
+
+Bank limit given by the person: 60 days
+Total to dispute: 5500.00 CAD
+Rows to ask the holder: none
+Rows left out as normal: 2026-10-01 E-TRANSFER OUT DANA OKAFOR 300.00 (N1); 2026-10-04 GREEN MARKET 40.83 (N1); 2026-10-08 BRIGHT PIPE PLUMBING 640.00 (N2, plumber-invoice-2207.pdf); 2026-10-11 HYDRO UTILITY 85.71 (N1); 2026-10-16 ZENITH TICKETS 120.00 (A1, holder answered No: nobody asked); 2026-11-01 E-TRANSFER OUT DANA OKAFOR 300.00 (N1); 2026-11-04 GREEN MARKET 80.76 (N1)
+Rows kept for the timeline only: 2026-10-20 TRANSFER FROM CHEQUING 4471 500.00 CAD and TRANSFER TO SAVINGS 9902 500.00 CAD (own-account move, O1)
+
+=== TIMELINE.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+
+Time: 2026-09-20 10:11
+Time source: capture time
+Channel: card photo
+Script step: untagged
+File: /volume1/Photos/Phone/2026-09/card-front.jpg
+Event: card ending 4471 photographed
+Payment row: none
+
+Time: 2026-10-14 08:50
+Time source: camera
+Channel: camera
+Script step: untagged
+File: front door camera (cam-front-01)
+Event: person at front door, known: postman
+Payment row: none
+
+Time: 2026-10-14 17:20
+Time source: printed in message
+Channel: screen
+Script step: A1
+File: /volume1/Photos/Phone/2026-10/IMG_2041.png
+Event: "Northvale Alert... Your card is blocked. Call 555-0126 now to unlock your card. Today only. Do not tell anyone."
+Payment row: none
+
+Time: 2026-10-15 08:40
+Time source: file name
+Channel: voicemail
+Script step: A2, A3
+File: /volume1/Voicemail/vm-2026-10-15-0840.m4a
+Event: "This is the fraud department at Northvale Bank... Transfer to account 55213390 in the name JK HOLDINGS... Do not tell anyone"
+Payment row: none
+
+Time: 2026-10-15 09:10
+Time source: capture time
+Channel: screen
+Script step: A3
+File: /volume1/Photos/Phone/2026-10/IMG_2064.jpg
+Event: "Fraud man said: do not tell Dana or the branch"
+Payment row: none
+
+Time: 2026-10-15
+Time source: statement date
+Channel: statement
+Script step: untagged
+File: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Event: E-TRANSFER OUT 55213390 JK HOLDINGS 1800.00 CAD
+Payment row: 1
+
+Time: 2026-10-16
+Time source: statement date
+Channel: statement
+Script step: untagged
+File: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Event: E-TRANSFER OUT 55213390 JK HOLDINGS 2500.00 CAD
+Payment row: 2
+
+Time: 2026-10-16
+Time source: statement date
+Channel: statement
+Script step: untagged
+File: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Event: ZENITH TICKETS 120.00 CAD, left out as normal (holder answered: nobody asked)
+Payment row: none
+
+Time: 2026-10-18 09:04
+Time source: printed in message
+Channel: screen
+Script step: untagged (genuine bank text)
+File: /volume1/Photos/Phone/2026-10/IMG_2059.png
+Event: "Your new card ending 4471 is on its way. No action needed."
+Payment row: none
+
+Time: 2026-10-19 07:55
+Time source: file name
+Channel: voicemail
+Script step: A3
+File: /volume1/Voicemail/vm-2026-10-19-0755.m4a
+Event: "The transfer did not clear. Send twelve hundred more to the same account 55213390 today. Do not tell anyone."
+Payment row: none
+
+Time: 2026-10-19
+Time source: statement date
+Channel: statement
+Script step: untagged
+File: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Event: E-TRANSFER OUT 55213390 JK HOLDINGS 1200.00 CAD
+Payment row: 3
+
+Time: 2026-10-20
+Time source: statement date
+Channel: statement
+Script step: untagged
+File: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Event: own-account move, 500.00 CAD from 4471 to 9902 (timeline only)
+Payment row: none
+
+=== GAPS-AND-NEXT.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+Script seen: A, bank impersonation with a safe account
+Steps seen: A1 (2026-10-14), A2 (2026-10-15), A3 (2026-10-15 and 2026-10-19)
+Steps with no evidence: A4, the recovery offer. Look for later calls or messages after 2026-10-19 in /volume1/Voicemail and the phone photos.
+Months without a statement: none for account 4471. Savings account 9902 statements are not in the folder: download them from Northvale for 2026-09 to 2026-11.
+Sources not read: none (camera step not run: no contact named a visit, a collection or a day)
+Likely next step: In this script the next step is often more transfers, then the recovery offer (A4); warn the parent.
+Warning cited: /volume1/Documents/Family/Mail/northvale-newsletter-2026-09.pdf, dated 2026-09-28: "we will never ask you to move money to a safe account."
+Questions for the holder: none
+
+=== QUOTES.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+Quote: "Northvale Alert ... Your card is blocked. Call 555-0126 now to unlock your card. Today only. Do not tell anyone."
+Speaker or sender: Northvale Alert (sender not named)
+File: /volume1/Photos/Phone/2026-10/IMG_2041.png
+Time: 2026-10-14 17:20
+Read by: text recognition
+Clarity: clear
+Linked payment row: none
+
+Quote: "This is the fraud department at Northvale Bank. ... Transfer to account 55213390 in the name JK HOLDINGS. Call me back on 555-0182."
+Speaker or sender: caller, fraud department
+File: /volume1/Voicemail/vm-2026-10-15-0840.m4a
+Time: 2026-10-15 08:40
+Read by: transcript
+Clarity: clear
+Linked payment row: 1 and 2
+
+Quote: "Fraud man said: do not tell Dana or the branch."
+Speaker or sender: caller
+File: /volume1/Photos/Phone/2026-10/IMG_2064.jpg
+Time: 2026-10-15 09:10
+Read by: text recognition
+Clarity: clear (call-back digits unclear: check by eye)
+Linked payment row: none
+
+Quote: "The transfer did not clear. Send twelve hundred more to the same account 55213390 today. Do not tell anyone."
+Speaker or sender: caller
+File: /volume1/Voicemail/vm-2026-10-19-0755.m4a
+Time: 2026-10-19 07:55
+Read by: transcript
+Clarity: clear
+Linked payment row: 3
+
+Quote: "Your new card ending 4471 is on its way. No action needed."
+Speaker or sender: Northvale Bank (genuine text)
+File: /volume1/Photos/Phone/2026-10/IMG_2059.png
+Time: 2026-10-18 09:04
+Read by: text recognition
+Clarity: clear
+Linked payment row: none
+
+Asked, not followed:
+/volume1/Documents/Family/Statements/northvale-2026-10.pdf: [passage omitted], not followed.
+
+=== HOLDER-STATEMENT.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+
+Holder: Margaret Okafor
+Sentence: It was Wednesday the 14th.
+Day and amount from records: 2026-10-14 17:20 (/volume1/Photos/Phone/2026-10/IMG_2041.png)
+Settled on: 2026-11-12
+Parent's own words on any disagreement: It was Wednesday the 14th.
+Signature: (left blank for the holder)
+
+Holder: Margaret Okafor
+Sentence: A man from the fraud department left me a message on the 15th.
+Day and amount from records: 2026-10-15 08:40 (/volume1/Voicemail/vm-2026-10-15-0840.m4a)
+Settled on: not needed
+Parent's own words on any disagreement: none
+Signature: (left blank for the holder)
+
+Holder: Margaret Okafor
+Sentence: It was 1800, I remember now.
+Day and amount from records: 2026-10-15, 1800.00 CAD (/volume1/Documents/Family/Statements/northvale-2026-10.pdf)
+Settled on: 2026-11-12
+Parent's own words on any disagreement: It was 1800, I remember now.
+Signature: (left blank for the holder)
+
+Holder: Margaret Okafor
+Sentence: Then I moved twenty-five hundred.
+Day and amount from records: 2026-10-16, 2500.00 CAD (/volume1/Documents/Family/Statements/northvale-2026-10.pdf)
+Settled on: not needed
+Parent's own words on any disagreement: none
+Signature: (left blank for the holder)
+
+Holder: Margaret Okafor
+Sentence: I paid the plumber 640 for the kitchen tap.
+Day and amount from records: 2026-10-08, 640.00 CAD, BRIGHT PIPE PLUMBING (/volume1/Documents/Family/Statements/northvale-2026-10.pdf)
+Settled on: not needed
+Parent's own words on any disagreement: none
+Signature: (left blank for the holder)
+
+Holder: Margaret Okafor
+Sentence: I forgot, I sent 1200 on the 19th after he called again.
+Day and amount from records: 2026-10-19, 1200.00 CAD (/volume1/Documents/Family/Statements/northvale-2026-10.pdf); /volume1/Voicemail/vm-2026-10-19-0755.m4a
+Settled on: 2026-11-12
+Parent's own words on any disagreement: I forgot, I sent 1200 on the 19th after he called again.
+Signature: (left blank for the holder)
+
+Holder: Margaret Okafor
+Sentence: My neighbour told me to be careful.
+Day and amount from records: not found
+Settled on: not needed
+Parent's own words on any disagreement: none
+Signature: (left blank for the holder)
+
+=== LETTER-BANK-NORTHVALE.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+To: Northvale Bank
+Account holder: Margaret Okafor
+Accounts: 4471 and 9902
+Date of letter: 2026-11-12
+Summary: I am writing about three payments listed below.
+Payments disputed: 2026-10-15, E-TRANSFER OUT 55213390 JK HOLDINGS, 1800.00 CAD; 2026-10-16, E-TRANSFER OUT 55213390 JK HOLDINGS, 2500.00 CAD; 2026-10-19, E-TRANSFER OUT 55213390 JK HOLDINGS, 1200.00 CAD
+Message that asked for each payment: 2026-10-15 1800.00 and 2026-10-16 2500.00: voicemail /volume1/Voicemail/vm-2026-10-15-0840.m4a, 2026-10-15 08:40, "Transfer to account 55213390 in the name JK HOLDINGS." 2026-10-19 1200.00: voicemail /volume1/Voicemail/vm-2026-10-19-0755.m4a, 2026-10-19 07:55, "Send twelve hundred more to the same account 55213390 today."
+What I ask the bank to do: review each payment, explain the steps and time limits that apply, and confirm what is in the bank file
+Bank called on: 2026-11-11, reference NV-88213
+Enclosed exhibits: vm-2026-10-15-0840.m4a; vm-2026-10-19-0755.m4a; IMG_2041.png; IMG_2064.jpg; northvale-2026-10.pdf
+Holder signature: (left blank for the holder)
+
+=== LETTER-POLICE.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+Report summary: A caller who said he was from the fraud department of Northvale Bank asked me to move money to account 55213390 (JK HOLDINGS). I made three payments totalling 5500.00 CAD.
+Dates: 2026-10-14 (first message, a bank alert on my phone, 17:20) to 2026-10-19 (last payment)
+Contact methods used by the caller: text message (screen photo) and voicemail
+Names and numbers used by the caller: "fraud department at Northvale Bank" (no personal name); numbers 555-0126 and 555-0182; account 55213390 in the name JK HOLDINGS
+Payments: 2026-10-15, 1800.00 CAD, JK HOLDINGS; 2026-10-16, 2500.00 CAD, JK HOLDINGS; 2026-10-19, 1200.00 CAD, JK HOLDINGS
+Camera events: none kept (camera step not run)
+Exhibits: vm-2026-10-15-0840.m4a; vm-2026-10-19-0755.m4a; IMG_2041.png; IMG_2064.jpg; northvale-2026-10.pdf
+Holder statement: It was Wednesday the 14th. A man from the fraud department left me a message on the 15th. It was 1800, I remember now. Then I moved twenty-five hundred. I paid the plumber 640 for the kitchen tap. I forgot, I sent 1200 on the 19th after he called again. My neighbour told me to be careful.
+Reported by: (left blank for the holder)
+
+=== EXHIBITS.md
+Case folder: /volume1/homes/dana/Scam-Response-2026-11-12
+Case kind: Bank impersonation
+Prepared for: Margaret Okafor, helped by Dana Okafor
+Prepared on: 2026-11-12
+Run number: 1
+Status: DRAFT, nothing has been sent to anyone
+Exhibit: vm-2026-10-15-0840.m4a
+Original path: /volume1/Voicemail/vm-2026-10-15-0840.m4a
+Copy path: /volume1/homes/dana/Scam-Response-2026-11-12/recordings/vm-2026-10-15-0840.m4a
+Bytes: 312036
+SHA-256 of original: 73016c260175531da5c85676ae8fedb51dec779472f9f823459a7496ae5ae8d8
+SHA-256 of copy: 73016c260175531da5c85676ae8fedb51dec779472f9f823459a7496ae5ae8d8
+Copy check: match
+
+Exhibit: vm-2026-10-19-0755.m4a
+Original path: /volume1/Voicemail/vm-2026-10-19-0755.m4a
+Copy path: /volume1/homes/dana/Scam-Response-2026-11-12/recordings/vm-2026-10-19-0755.m4a
+Bytes: 381079
+SHA-256 of original: 409f450a6a33376da95458cd534c7ec5d2e4b3324f704ee7ffd32e5ddd4df794
+SHA-256 of copy: 409f450a6a33376da95458cd534c7ec5d2e4b3324f704ee7ffd32e5ddd4df794
+Copy check: match
+
+Exhibit: IMG_2041.png
+Original path: /volume1/Photos/Phone/2026-10/IMG_2041.png
+Copy path: /volume1/homes/dana/Scam-Response-2026-11-12/messages/IMG_2041.png
+Bytes: 24309
+SHA-256 of original: f9aef14a9fec0c17f214b4bce7d42efae1a78379e2591ff37613e75e93c13d97
+SHA-256 of copy: f9aef14a9fec0c17f214b4bce7d42efae1a78379e2591ff37613e75e93c13d97
+Copy check: match
+
+Exhibit: IMG_2064.jpg
+Original path: /volume1/Photos/Phone/2026-10/IMG_2064.jpg
+Copy path: /volume1/homes/dana/Scam-Response-2026-11-12/messages/IMG_2064.jpg
+Bytes: 92005
+SHA-256 of original: 4364b155428c222d5643eb89d111d1c507d24205b25debed332e360a14eb4f94
+SHA-256 of copy: 4364b155428c222d5643eb89d111d1c507d24205b25debed332e360a14eb4f94
+Copy check: match
+
+Exhibit: northvale-2026-10.pdf
+Original path: /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+Copy path: /volume1/homes/dana/Scam-Response-2026-11-12/statements/northvale-2026-10.pdf
+Bytes: 93484
+SHA-256 of original: 481697b8900ca0dcfb1e9038f13c3fc47abc9cefd07d236a4d533cdd0e0d91eb
+SHA-256 of copy: 481697b8900ca0dcfb1e9038f13c3fc47abc9cefd07d236a4d533cdd0e0d91eb
+Copy check: match
+
+CAMERA.md: not written (step 8 did not run).
+LEDGER.md: no page to reprint; nine lines appended in this run, as listed in the step log.

@@ -1,0 +1,7 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plates
+--- QRS 6140
+Time: 2026-10-27 18:40
+Camera: Driveway
+Known vehicle: yes

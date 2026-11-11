@@ -1,0 +1,19 @@
+state: completed
+expert: photo-agent
+action: ug-photo search-screen
+--- /volume1/Photos/Phone/2026-10/IMG_2041.png
+Folder: /volume1/Photos/Phone/2026-10
+Category: screen
+Capture time: 2026-10-14 17:22
+--- /volume1/Photos/Phone/2026-10/IMG_2059.png
+Folder: /volume1/Photos/Phone/2026-10
+Category: screen
+Capture time: 2026-10-18 09:05
+--- /volume1/Photos/Phone/2026-09/card-front.jpg
+Folder: /volume1/Photos/Phone/2026-09
+Category: card
+Capture time: 2026-09-20 10:11
+--- /volume1/Photos/Other/IMG_0001.png
+Folder: /volume1/Photos/Other
+Category: screen
+Capture time: 2026-10-20 09:00

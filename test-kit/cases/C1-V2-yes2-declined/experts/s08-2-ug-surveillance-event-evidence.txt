@@ -1,0 +1,13 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance event-evidence
+--- 2026-10-14 08:50 Front door
+Snapshot: snap-front-20261014-0850
+Snapshot file: /volume1/@surveillance/snapshots/snap-front-20261014-0850.jpg
+Time: 2026-10-14 08:50
+Camera: Front door
+--- 2026-10-16 19:10 Driveway
+Snapshot: snap-drive-20261016-1910
+Snapshot file: /volume1/@surveillance/snapshots/snap-drive-20261016-1910.jpg
+Time: 2026-10-16 19:10
+Camera: Driveway

@@ -1,0 +1,9 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge collect-evidence
+--- /volume1/Documents/Family/Mail/harbourline-news-2026-10.pdf
+Date: 2026-10-12
+Addressed to: all Harbourline customers
+Passage: the bank never sends a courier to collect your card.
+Coverage: read 15 files in /volume1/Documents/Family (documents and statements); images and recordings are read by the photo and knowledge experts.
+Failed to read: none

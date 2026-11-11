@@ -1,0 +1,6 @@
+state: completed
+expert: photo-agent
+action: ug-photo search-picture
+--- /volume1/Photos/Phone/2026-11/IMG_receipt.jpg
+Folder: /volume1/Photos/Phone/2026-11
+Capture time: 2026-11-03 11:20

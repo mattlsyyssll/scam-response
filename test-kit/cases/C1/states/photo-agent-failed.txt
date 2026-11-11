@@ -1,0 +1,4 @@
+state: failed
+expert: photo-agent
+action: ug-photo vision-ocr
+error: the source could not be read

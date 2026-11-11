@@ -1,0 +1,141 @@
+state: completed
+expert: document-agent
+action: ug-document extract
+--- /volume1/Documents/Family/Statements/cedar-2025-10.pdf
+Statement state: completed
+Period: 2025-10-01 to 2025-10-31
+Row: 2025-10-03 | GREEN MARKET | 49.64 | debit | CAD | 3390
+Row: 2025-10-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2025-10-15 | HYDRO UTILITY | 70.84 | debit | CAD | 3390
+Row: 2025-10-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2025-11.pdf
+Statement state: completed
+Period: 2025-11-01 to 2025-11-30
+Row: 2025-11-03 | GREEN MARKET | 64.60 | debit | CAD | 3390
+Row: 2025-11-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2025-11-15 | HYDRO UTILITY | 98.98 | debit | CAD | 3390
+Row: 2025-11-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2025-12.pdf
+Statement state: completed
+Period: 2025-12-01 to 2025-12-31
+Row: 2025-12-03 | GREEN MARKET | 60.75 | debit | CAD | 3390
+Row: 2025-12-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2025-12-15 | HYDRO UTILITY | 83.89 | debit | CAD | 3390
+Row: 2025-12-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-01.pdf
+Statement state: completed
+Period: 2026-01-01 to 2026-01-31
+Row: 2026-01-03 | GREEN MARKET | 75.63 | debit | CAD | 3390
+Row: 2026-01-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-01-15 | HYDRO UTILITY | 76.74 | debit | CAD | 3390
+Row: 2026-01-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-02.pdf
+Statement state: completed
+Period: 2026-02-01 to 2026-02-28
+Row: 2026-02-03 | GREEN MARKET | 59.29 | debit | CAD | 3390
+Row: 2026-02-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-02-15 | HYDRO UTILITY | 95.74 | debit | CAD | 3390
+Row: 2026-02-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-03.pdf
+Statement state: completed
+Period: 2026-03-01 to 2026-03-31
+Row: 2026-03-03 | GREEN MARKET | 67.70 | debit | CAD | 3390
+Row: 2026-03-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-03-15 | HYDRO UTILITY | 91.53 | debit | CAD | 3390
+Row: 2026-03-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-04.pdf
+Statement state: completed
+Period: 2026-04-01 to 2026-04-30
+Row: 2026-04-03 | GREEN MARKET | 41.36 | debit | CAD | 3390
+Row: 2026-04-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-04-15 | HYDRO UTILITY | 88.28 | debit | CAD | 3390
+Row: 2026-04-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-05.pdf
+Statement state: completed
+Period: 2026-05-01 to 2026-05-31
+Row: 2026-05-03 | GREEN MARKET | 49.57 | debit | CAD | 3390
+Row: 2026-05-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-05-15 | HYDRO UTILITY | 83.25 | debit | CAD | 3390
+Row: 2026-05-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-06.pdf
+Statement state: completed
+Period: 2026-06-01 to 2026-06-30
+Row: 2026-06-03 | GREEN MARKET | 82.62 | debit | CAD | 3390
+Row: 2026-06-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-06-15 | HYDRO UTILITY | 99.02 | debit | CAD | 3390
+Row: 2026-06-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-07.pdf
+Statement state: completed
+Period: 2026-07-01 to 2026-07-31
+Row: 2026-07-03 | GREEN MARKET | 87.81 | debit | CAD | 3390
+Row: 2026-07-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-07-15 | HYDRO UTILITY | 98.51 | debit | CAD | 3390
+Row: 2026-07-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-08.pdf
+Statement state: completed
+Period: 2026-08-01 to 2026-08-31
+Row: 2026-08-03 | GREEN MARKET | 56.62 | debit | CAD | 3390
+Row: 2026-08-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-08-15 | HYDRO UTILITY | 82.48 | debit | CAD | 3390
+Row: 2026-08-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-09.pdf
+Statement state: completed
+Period: 2026-09-01 to 2026-09-30
+Row: 2026-09-03 | GREEN MARKET | 57.78 | debit | CAD | 3390
+Row: 2026-09-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-09-15 | HYDRO UTILITY | 72.73 | debit | CAD | 3390
+Row: 2026-09-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-10.pdf
+Statement state: completed
+Period: 2026-10-01 to 2026-10-31
+Row: 2026-10-03 | GREEN MARKET | 65.61 | debit | CAD | 3390
+Row: 2026-10-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Row: 2026-10-15 | HYDRO UTILITY | 78.65 | debit | CAD | 3390
+Row: 2026-10-27 | PENSION DEPOSIT | 1700.00 | credit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/cedar-2026-11.pdf
+Statement state: completed
+Period: 2026-11-01 to 2026-11-10
+Row: 2026-11-03 | GREEN MARKET | 59.39 | debit | CAD | 3390
+Row: 2026-11-05 | MERIDIAN LEISURE | 38.00 | debit | CAD | 3390
+Header text as read: Cedar Bank, customer service 1-800-555-0152
+Coverage: all pages read, 2 rows
+Failure reason: none

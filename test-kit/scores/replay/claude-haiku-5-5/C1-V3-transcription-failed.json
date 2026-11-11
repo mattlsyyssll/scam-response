@@ -1,0 +1,82 @@
+[
+ [
+  "extract_verbatim",
+  true,
+  "11 payment rows match an extract row"
+ ],
+ [
+  "totals_and_dates",
+  false,
+  "report-by 2026-11-12 is after the limit date check; see bank limit below should be 2026-11-30; report-by check your bank's and country's rules should be 2026-12-03; report-by check your bank's and country's rules should be 2026-12-07; report-by check your bank's and country's rules should be 2026-12-10"
+ ],
+ [
+  "quotes_verbatim",
+  false,
+  "quote not in any transcript or text reading: not transcribed: listen and quote by hand"
+ ],
+ [
+  "timeline_order",
+  true,
+  "rows in time order with file and time source"
+ ],
+ [
+  "dispute_rows",
+  true,
+  "3 dispute rows with evidence and an allowed rule code"
+ ],
+ [
+  "copy_hashes",
+  true,
+  "5 exhibits: both hashes listed and equal to the sha256sum replies"
+ ],
+ [
+  "ledger_chain",
+  true,
+  "ledger chain holds"
+ ],
+ [
+  "writes",
+  true,
+  "writes only inside the case folder, after a yes"
+ ],
+ [
+  "states_order",
+  true,
+  "every reply has one of five states; steps in order, 4 before 5"
+ ],
+ [
+  "link_L1",
+  true,
+  "each linked payment shares a detail with its contact, contact first"
+ ],
+ [
+  "stop_numbers",
+  true,
+  "stop-list numbers come from card photos or statement headers, none from a scam message"
+ ],
+ [
+  "consent",
+  true,
+  "no evidence path outside the approved folders; outside photos dropped"
+ ],
+ [
+  "tags",
+  true,
+  "every tag names listed steps; none on a newsletter or genuine bank text"
+ ],
+ [
+  "same_facts",
+  true,
+  "payments page, bank letter and police letter carry the same payment facts"
+ ],
+ [
+  "exhibits_listed",
+  true,
+  "every exhibit in the letters is listed with both hashes"
+ ],
+ [
+  "reads",
+  true,
+  "every Read, Glob and Grep inside skill-served and the case folder"
+ ]
+]

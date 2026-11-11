@@ -1,0 +1,13 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Homes/rosa/Voice memos/tells-it.m4a
+Recording state: completed
+transcriptText: The detective phoned on Sunday and A man came on Tuesday the 3rd at about noon and I gave him one card and I did not give him my PIN and The charges are all from the Tuesday.
+Segments:
+  [00:00] The detective phoned on Sunday.
+  [00:07] A man came on Tuesday the 3rd at about noon and I gave him one card.
+  [00:14] I did not give him my PIN.
+  [00:21] The charges are all from the Tuesday.
+Quality: good
+Failure reason: none

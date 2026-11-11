@@ -1,0 +1,9 @@
+state: completed
+expert: file-agent
+action: ug-filesystem sha256sum
+--- /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+SHA-256: 481697b8900ca0dcfb1e9038f13c3fc47abc9cefd07d236a4d533cdd0e0d91eb
+Size: 93484 bytes
+--- /volume1/homes/dana/Scam-Response-2026-11-12/statements/northvale-2026-10.pdf
+SHA-256: 481697b8900ca0dcfb1e9038f13c3fc47abc9cefd07d236a4d533cdd0e0d91eb
+Size: 93484 bytes

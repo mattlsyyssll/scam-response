@@ -1,0 +1,63 @@
+state: completed
+expert: file-agent
+action: ug-filesystem sha256sum
+--- /volume1/Photos/Phone/2026-08/chat-2026-08-30.png
+SHA-256: c1a8c34740943bcd24b6a29a086c30818e4d2d993f8c8f6b9e5f385074b3499c
+Size: 94060 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/messages/chat-2026-08-30.png
+SHA-256: c1a8c34740943bcd24b6a29a086c30818e4d2d993f8c8f6b9e5f385074b3499c
+Size: 94060 bytes
+--- /volume1/Photos/Phone/2026-09/chat-2026-09-20.png
+SHA-256: db5f0e0dedbced12521d3e84ce8ff6e48d425cbb4e01aaca7e0f7a4dac5a6398
+Size: 73316 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/messages/chat-2026-09-20.png
+SHA-256: db5f0e0dedbced12521d3e84ce8ff6e48d425cbb4e01aaca7e0f7a4dac5a6398
+Size: 73316 bytes
+--- /volume1/Photos/Phone/2026-10/chat-2026-10-06.png
+SHA-256: 4db7b3928d330bf030d32cd3eb37c7708dbf2506aaaa0bc2bf8899ff1d1dfd56
+Size: 78739 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/messages/chat-2026-10-06.png
+SHA-256: 4db7b3928d330bf030d32cd3eb37c7708dbf2506aaaa0bc2bf8899ff1d1dfd56
+Size: 78739 bytes
+--- /volume1/Photos/Phone/2026-10/chat-2026-10-20.png
+SHA-256: 535895327f5f49f40bf9ca23333d49badc422a856fc5b5967ec6e1358caa7181
+Size: 47576 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/messages/chat-2026-10-20.png
+SHA-256: 535895327f5f49f40bf9ca23333d49badc422a856fc5b5967ec6e1358caa7181
+Size: 47576 bytes
+--- /volume1/Photos/Phone/2026-10/chat-2026-10-27.png
+SHA-256: 55cf27de72bfc357250ddcb8fcf815c8ee8a62b0a0caa44622c6cc214b5d252b
+Size: 40137 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/messages/chat-2026-10-27.png
+SHA-256: 55cf27de72bfc357250ddcb8fcf815c8ee8a62b0a0caa44622c6cc214b5d252b
+Size: 40137 bytes
+--- /volume1/Photos/Phone/2026-10/dashboard-2026-10-30.png
+SHA-256: 2a21b8964e23d743f6e78c57aaba1ee471d16ba881aa83f6cd1808861af9f38b
+Size: 54413 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/messages/dashboard-2026-10-30.png
+SHA-256: 2a21b8964e23d743f6e78c57aaba1ee471d16ba881aa83f6cd1808861af9f38b
+Size: 54413 bytes
+--- /volume1/Voicemail/voice-note-elena-2026-11-03.m4a
+SHA-256: 184dc60b4ef68f73ee971cd3b235b8d846410a732cb5b85fb5d7643547c404b5
+Size: 424304 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/recordings/voice-note-elena-2026-11-03.m4a
+SHA-256: 184dc60b4ef68f73ee971cd3b235b8d846410a732cb5b85fb5d7643547c404b5
+Size: 424304 bytes
+--- /volume1/Documents/Family/Statements/summit-2026-09.pdf
+SHA-256: adc540788d699c1c426afbf06be2f3561703c04fdfb4239191e4503946d4363c
+Size: 61829 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/statements/summit-2026-09.pdf
+SHA-256: adc540788d699c1c426afbf06be2f3561703c04fdfb4239191e4503946d4363c
+Size: 61829 bytes
+--- /volume1/Documents/Family/Statements/summit-2026-10.pdf
+SHA-256: 34c36b7cdf65ab29ef5660bfd1c9ebd9977b8af56daff16fe8830aa91df324b1
+Size: 137231 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/statements/summit-2026-10.pdf
+SHA-256: 34c36b7cdf65ab29ef5660bfd1c9ebd9977b8af56daff16fe8830aa91df324b1
+Size: 137231 bytes
+--- /volume1/Documents/Family/Statements/summit-2026-11.pdf
+SHA-256: 0e460298fb92ac51cc2d80840efa17b75883463ade29e71eec50117f86cbe6f8
+Size: 132835 bytes
+--- /volume1/homes/claire/Scam-Response-2026-11-12/statements/summit-2026-11.pdf
+SHA-256: 0e460298fb92ac51cc2d80840efa17b75883463ade29e71eec50117f86cbe6f8
+Size: 132835 bytes

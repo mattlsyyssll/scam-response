@@ -1,0 +1,12 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Homes/nora/Voice memos/tells-it.m4a
+Recording state: completed
+transcriptText: A woman phoned on Monday and I hung up and I paid nothing to anyone and The gym takes 38 on the fifth every month.
+Segments:
+  [00:00] A woman phoned on Monday and I hung up.
+  [00:07] I paid nothing to anyone.
+  [00:14] The gym takes 38 on the fifth every month.
+Quality: good
+Failure reason: none

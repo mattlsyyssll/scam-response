@@ -1,0 +1,9 @@
+state: completed
+expert: document-agent
+action: ug-document reconcile
+New payee: BRIGHT PIPE PLUMBING | rows used: 2026-10-08 640.00
+New payee: E-TRANSFER OUT 55213390 JK HOLDINGS | rows used: 2026-10-15 1800.00; 2026-10-16 2500.00; 2026-10-19 1200.00
+New payee: TRANSFER FROM CHEQUING 4471 | rows used: 2026-10-20 500.00
+New payee: TRANSFER TO SAVINGS 9902 | rows used: 2026-10-20 500.00
+New payee: ZENITH TICKETS | rows used: 2026-10-16 120.00
+Explained: BRIGHT PIPE PLUMBING | invoice /volume1/Documents/Family/Invoices/plumber-invoice-2207.pdf | rows used: 2026-10-08 640.00

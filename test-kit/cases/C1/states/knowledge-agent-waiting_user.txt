@@ -1,0 +1,4 @@
+state: waiting_user
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+question: Which folder holds the statements for September?

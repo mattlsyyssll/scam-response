@@ -1,0 +1,27 @@
+File listing of the household C4 (generator view, not for the host):
+/volume1/Documents/Family/Mail/summit-news-2026-09.pdf; document; 32051 bytes; modified 2026-09-15; sha256 ad861695de9ea10b05698bca92bf62b984e8330f927fdcbd3f55303ee6e10b10
+/volume1/Documents/Family/Statements/summit-2025-08.pdf; statement; 95701 bytes; modified 2025-09-01; sha256 2daa55a15e52b95bc59b75748753cc24a1c3b1bcc3fb9fed41f8f389a821addd
+/volume1/Documents/Family/Statements/summit-2025-09.pdf; statement; 126585 bytes; modified 2025-10-01; sha256 addba78fe8ee1274acc0c44d80b88929437e0fbda1e8d365be017432f553f0eb
+/volume1/Documents/Family/Statements/summit-2025-10.pdf; statement; 93957 bytes; modified 2025-11-01; sha256 70585b2925489554d198d3c8eed308bbc32a2d04d0953ac45361466d4326350d
+/volume1/Documents/Family/Statements/summit-2025-11.pdf; statement; 85631 bytes; modified 2025-12-01; sha256 6069115f5dc54e9a91dfbc2a32866aa9d768d1e861aee8188aad915b1b99f95a
+/volume1/Documents/Family/Statements/summit-2025-12.pdf; statement; 79779 bytes; modified 2026-01-01; sha256 864b224be6248d4e0659b6236d10f0e6e89292ca3b6e8861cb28b61c0ba71fec
+/volume1/Documents/Family/Statements/summit-2026-01.pdf; statement; 103071 bytes; modified 2026-02-01; sha256 e95831b3c88d085be5e148aa7e42a8a696877fa670390e4f0e7057850a04b701
+/volume1/Documents/Family/Statements/summit-2026-02.pdf; statement; 76370 bytes; modified 2026-03-01; sha256 54c72693286b68c6367f09457d48292be50c07e9f570b808c75384be851f642d
+/volume1/Documents/Family/Statements/summit-2026-03.pdf; statement; 110756 bytes; modified 2026-04-01; sha256 3a2b0be0dd1b7bbe149e94f6e5faee69f960bafd2c0e675f02439b9f690ce9f7
+/volume1/Documents/Family/Statements/summit-2026-04.pdf; statement; 68460 bytes; modified 2026-05-01; sha256 4aaba6a59d3fa49de1dfc0109f6d6e127ffe8276b17c5d80844fc612bfcc4879
+/volume1/Documents/Family/Statements/summit-2026-05.pdf; statement; 134928 bytes; modified 2026-06-01; sha256 25a5845a4c9cecef6a3701eff956f65fc84ff58b10677d0114b0ca4d4f1815fb
+/volume1/Documents/Family/Statements/summit-2026-06.pdf; statement; 68016 bytes; modified 2026-07-01; sha256 9cd5704cf99d502c799c95cf041e9365a53773b771737defc9fe2ef7db575eb4
+/volume1/Documents/Family/Statements/summit-2026-08.pdf; statement; 88915 bytes; modified 2026-09-01; sha256 85e65a0cfa232f4dfe48f2f4dd3781adfce308c3a7cc05e8aa19f3dc511d1e85
+/volume1/Documents/Family/Statements/summit-2026-09.pdf; statement; 61829 bytes; modified 2026-10-01; sha256 adc540788d699c1c426afbf06be2f3561703c04fdfb4239191e4503946d4363c
+/volume1/Documents/Family/Statements/summit-2026-10.pdf; statement; 137231 bytes; modified 2026-11-01; sha256 34c36b7cdf65ab29ef5660bfd1c9ebd9977b8af56daff16fe8830aa91df324b1
+/volume1/Documents/Family/Statements/summit-2026-11.pdf; statement; 132835 bytes; modified 2026-11-11; sha256 0e460298fb92ac51cc2d80840efa17b75883463ade29e71eec50117f86cbe6f8
+/volume1/Photos/Other/IMG_0001.png; photo; 87274 bytes; modified 2026-10-20; sha256 8d087724dddb8b5f1f7e852d9d531c5ed1275e05063bd9f74d181b5f653871f5
+/volume1/Photos/Phone/2026-08/card-summit.jpg; photo; 64487 bytes; modified 2026-08-25; sha256 8444a876dbdefc0a5a9cfde46af008a63ff774c31d90a1b48f4dcbba7ab808a7
+/volume1/Photos/Phone/2026-08/chat-2026-08-30.png; photo; 94060 bytes; modified 2026-08-30; sha256 c1a8c34740943bcd24b6a29a086c30818e4d2d993f8c8f6b9e5f385074b3499c
+/volume1/Photos/Phone/2026-09/chat-2026-09-20.png; photo; 73316 bytes; modified 2026-09-20; sha256 db5f0e0dedbced12521d3e84ce8ff6e48d425cbb4e01aaca7e0f7a4dac5a6398
+/volume1/Photos/Phone/2026-10/IMG_fish.jpg; photo; 33586 bytes; modified 2026-10-12; sha256 a017356aa217ca7a1cafa92ba613ad1da3f4a968f25fb4305c31c0e222cb2596
+/volume1/Photos/Phone/2026-10/chat-2026-10-06.png; photo; 78739 bytes; modified 2026-10-06; sha256 4db7b3928d330bf030d32cd3eb37c7708dbf2506aaaa0bc2bf8899ff1d1dfd56
+/volume1/Photos/Phone/2026-10/chat-2026-10-20.png; photo; 47576 bytes; modified 2026-10-20; sha256 535895327f5f49f40bf9ca23333d49badc422a856fc5b5967ec6e1358caa7181
+/volume1/Photos/Phone/2026-10/chat-2026-10-27.png; photo; 40137 bytes; modified 2026-10-27; sha256 55cf27de72bfc357250ddcb8fcf815c8ee8a62b0a0caa44622c6cc214b5d252b
+/volume1/Photos/Phone/2026-10/dashboard-2026-10-30.png; photo; 54413 bytes; modified 2026-10-30; sha256 2a21b8964e23d743f6e78c57aaba1ee471d16ba881aa83f6cd1808861af9f38b
+/volume1/Voicemail/voice-note-elena-2026-11-03.m4a; audio; 424304 bytes; modified 2026-11-03; sha256 184dc60b4ef68f73ee971cd3b235b8d846410a732cb5b85fb5d7643547c404b5

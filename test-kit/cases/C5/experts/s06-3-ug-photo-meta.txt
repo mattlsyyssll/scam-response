@@ -1,0 +1,15 @@
+state: completed
+expert: photo-agent
+action: ug-photo meta
+--- /volume1/Photos/Phone/2026-11/IMG_2201.png
+Capture time: 2026-11-06 08:00
+File size: 58519 bytes
+--- /volume1/Photos/Phone/2026-10/card-cedar.jpg
+Capture time: 2026-10-08 10:00
+File size: 69970 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_flowers.jpg
+Capture time: 2026-10-18 13:00
+File size: 62729 bytes
+--- /volume1/Photos/Other/IMG_0001.png
+Capture time: 2026-10-20 09:00
+File size: 78352 bytes

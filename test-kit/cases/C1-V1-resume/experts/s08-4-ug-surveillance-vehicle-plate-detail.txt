@@ -1,0 +1,8 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plate-detail
+--- KLM 4821
+Plate text: KLM 4821
+Time: 2026-10-16 19:10
+Camera: Driveway
+Snapshot: snap-drive-20261016-1910

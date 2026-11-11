@@ -1,0 +1,4 @@
+state: completed
+expert: photo-agent
+action: ug-photo vision-ocr
+result: see the replies of the case

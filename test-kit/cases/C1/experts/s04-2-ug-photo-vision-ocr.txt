@@ -1,0 +1,36 @@
+state: completed
+expert: photo-agent
+action: ug-photo vision-ocr
+--- /volume1/Photos/Phone/2026-10/IMG_2041.png
+Line 1: Northvale Alert | clear
+Line 2: Your card is blocked. | clear
+Line 3: Call 555-0126 now to unlock your card. Today only. | clear
+Line 4: Do not tell anyone. | clear
+Line 5: Wed 14 Oct 17:20 | clear
+Card last four: none
+--- /volume1/Photos/Phone/2026-10/IMG_2059.png
+Line 1: Northvale Bank | clear
+Line 2: Your new card ending 4471 is on its way. No action needed. | clear
+Line 3: Sun 18 Oct 09:04 | clear
+Card last four: none
+--- /volume1/Photos/Phone/2026-09/card-front.jpg
+Line 1: NORTHVALE BANK | clear
+Line 2: MARGARET OKAFOR | clear
+Line 3: Card ending 4471 | clear
+Line 4: Lost or stolen: 1-800-555-0119 | clear
+Line 5: Valid thru 0?/29 | unclear
+Card last four: 4471
+--- /volume1/Photos/Phone/2026-10/IMG_2064.jpg
+Line 1: Fraud man said: | clear
+Line 2: do not tell Dana or the branch | clear
+Line 3: call back 555-018? | unclear
+Card last four: none
+--- /volume1/Photos/Phone/2026-10/IMG_2070.jpg
+Line 1: GREEN MARKET | clear
+Line 2: TOTAL 23.40 | clear
+Line 3: 2026-10-21 | clear
+Card last four: none
+--- /volume1/Photos/Other/IMG_0001.png
+Line 1: Weather: sunny | clear
+Card last four: none
+Unreadable images: none

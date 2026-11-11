@@ -1,0 +1,45 @@
+state: completed
+expert: file-agent
+action: ug-filesystem sha256sum
+--- /volume1/Photos/Phone/2026-11/IMG_receipt.jpg
+SHA-256: 2726135c9a1fa5dc99fb9a1ad9f12e7235a78d150d41b532c9d0c94ae933b386
+Size: 51558 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/messages/IMG_receipt.jpg
+SHA-256: 2726135c9a1fa5dc99fb9a1ad9f12e7235a78d150d41b532c9d0c94ae933b386
+Size: 51558 bytes
+--- /volume1/Voicemail/vm-2026-11-02-1630.m4a
+SHA-256: 09ac9ed73ec088dea4c20cefbdbbad562cbe2cf2349f6e494b53b89a07c749a5
+Size: 407815 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/recordings/vm-2026-11-02-1630.m4a
+SHA-256: 09ac9ed73ec088dea4c20cefbdbbad562cbe2cf2349f6e494b53b89a07c749a5
+Size: 407815 bytes
+--- /volume1/Voicemail/vm-2026-11-03-0950.m4a
+SHA-256: f8e992438d4c7d2b6be97f39fae2c97514794d1cfbcc87deef22da940036cb0f
+Size: 363419 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/recordings/vm-2026-11-03-0950.m4a
+SHA-256: f8e992438d4c7d2b6be97f39fae2c97514794d1cfbcc87deef22da940036cb0f
+Size: 363419 bytes
+--- /volume1/Documents/Family/Statements/harbourline-2026-11.pdf
+SHA-256: 0507477d5ddb1689a3b2c3350e9e16ef17fb502d8fba5a28682e60201cd49d9a
+Size: 138960 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/statements/harbourline-2026-11.pdf
+SHA-256: 0507477d5ddb1689a3b2c3350e9e16ef17fb502d8fba5a28682e60201cd49d9a
+Size: 138960 bytes
+--- /volume1/@surveillance/snapshots/snap-drive-20261103-1107.jpg
+SHA-256: d2baf800c879818d61e913bdac586d3014141ce18de08c8f8e2d55d61f31d4a0
+Size: 33328 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/camera/snap-drive-20261103-1107.jpg
+SHA-256: d2baf800c879818d61e913bdac586d3014141ce18de08c8f8e2d55d61f31d4a0
+Size: 33328 bytes
+--- /volume1/@surveillance/snapshots/snap-front-20261103-1108.jpg
+SHA-256: 9caac1b764cf473ea51fdc56c14a4647668c4d551cbec78ad5749f48c90dec70
+Size: 33328 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/camera/snap-front-20261103-1108.jpg
+SHA-256: 9caac1b764cf473ea51fdc56c14a4647668c4d551cbec78ad5749f48c90dec70
+Size: 33328 bytes
+--- /volume1/@surveillance/snapshots/snap-front-20261103-1108b.jpg
+SHA-256: 0a6221bec817d31d1011d2688a2ebc42f33abbc530fe7ac26ad540c946715d60
+Size: 33425 bytes
+--- /volume1/homes/marco/Scam-Response-2026-11-12/camera/snap-front-20261103-1108b.jpg
+SHA-256: 0a6221bec817d31d1011d2688a2ebc42f33abbc530fe7ac26ad540c946715d60
+Size: 33425 bytes

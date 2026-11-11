@@ -1,0 +1,328 @@
+check_cases: 31 delegate commands read from SKILL.md; cases checked: C1, C1-V1-resume, C1-V2-yes2-declined, C1-V3-transcription-failed, C1-V4-statement-failed, C1-V5-copy-declined, C1-V6-ledger-edited, C1-V7-one-folder, C2, C3, C4, C5
+
+== C1
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  states: 5 experts x 5 states checked
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C1: 0
+
+== C1-V1-resume
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.3 file-agent             ug-filesystem cat                  parts: full text of the file -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 30
+  gaps in C1-V1-resume: 0
+
+== C1-V2-yes2-declined
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 28
+  gaps in C1-V2-yes2-declined: 0
+
+== C1-V3-transcription-failed
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C1-V3-transcription-failed: 0
+
+== C1-V4-statement-failed
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C1-V4-statement-failed: 0
+
+== C1-V5-copy-declined
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C1-V5-copy-declined: 0
+
+== C1-V6-ledger-edited
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.3 file-agent             ug-filesystem cat                  parts: full text of the file -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 30
+  gaps in C1-V6-ledger-edited: 0
+
+== C1-V7-one-folder
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C1-V7-one-folder: 0
+
+== C2
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C2: 0
+
+== C3
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C3: 0
+
+== C4
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 12.3 file-agent             ug-filesystem sha256sum            parts: path; SHA-256 value; size in bytes -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 29
+  gaps in C4: 0
+
+== C5
+  step 2.1 file-agent             file-workflow get-user-dir         parts: home path -> ok
+  step 2.2 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 2.4 security-monitor-agent ug-surveillance cameras            parts: name; identifier; online or not -> ok
+  step 4.1 photo-agent            ug-photo search-screen             parts: full path; folder; category; capture time -> ok
+  step 4.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; last four digits of a card number; list of unreadable images -> ok
+  step 4.3 file-agent             ug-filesystem find                 parts: full path; modified date; size -> ok
+  step 4.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 4.5 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 5.1 knowledge-agent        ug-knowledge collect-evidence      parts: source file path; date if shown; addressed to; matching passage; coverage statement; files that failed to read -> ok
+  step 6.1 photo-agent            ug-photo search-picture            parts: image path; folder; capture time -> ok
+  step 6.2 photo-agent            ug-photo vision-ocr                parts: every line of text as read; clarity mark on every line; list of unreadable images -> ok
+  step 6.3 photo-agent            ug-photo meta                      parts: capture time; file size -> ok
+  step 6.4 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  step 7.1 file-agent             ug-filesystem find                 parts: full path; modified date -> ok
+  step 7.2 document-agent         ug-document extract                parts: every transaction row with date, description, amount, direction, currency, account; statement period; coverage statement; failure reason -> ok
+  step 7.3 document-agent         ug-document reconcile              parts: payees new in the window; payments explained by an invoice or contract; rows used for each -> ok
+  step 8.1 security-monitor-agent ug-surveillance event-timeline     parts: time; camera; type; identity -> ok
+  step 8.2 security-monitor-agent ug-surveillance event-evidence     parts: snapshot reference; time; camera -> ok
+  step 8.3 security-monitor-agent ug-surveillance vehicle-plates     parts: plate; time; camera; known vehicle or not -> ok
+  step 8.4 security-monitor-agent ug-surveillance vehicle-plate-detail parts: plate text; time; camera; snapshot reference -> ok
+  step 10.1 knowledge-agent        ug-knowledge audio-transcription   parts: transcriptText; segments with start times; quality mark; failure reason -> ok
+  flow consistency: 11 checks, 0 gaps
+  index lines checked: 28
+  gaps in C5: 0
+
+TOTAL gaps: 0

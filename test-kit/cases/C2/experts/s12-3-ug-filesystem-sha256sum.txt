@@ -1,0 +1,27 @@
+state: completed
+expert: file-agent
+action: ug-filesystem sha256sum
+--- /volume1/Photos/Phone/2026-10/Screenshot_2026-10-26-1402.png
+SHA-256: 907a56b1167c5c79668aa9f3a1e0a9a959c0c6fe11413c072f346f13fd40baa8
+Size: 48680 bytes
+--- /volume1/homes/ines/Scam-Response-2026-11-12/messages/Screenshot_2026-10-26-1402.png
+SHA-256: 907a56b1167c5c79668aa9f3a1e0a9a959c0c6fe11413c072f346f13fd40baa8
+Size: 48680 bytes
+--- /volume1/Photos/Phone/2026-10/Screenshot_2026-10-27-1015.png
+SHA-256: ef7dbfff80e3e846461dae44399bb9065d51e7ac81ff682668a0bb97e1435ca7
+Size: 29830 bytes
+--- /volume1/homes/ines/Scam-Response-2026-11-12/messages/Screenshot_2026-10-27-1015.png
+SHA-256: ef7dbfff80e3e846461dae44399bb9065d51e7ac81ff682668a0bb97e1435ca7
+Size: 29830 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_gift-cards.jpg
+SHA-256: 2370f3b09fabe70658eca3d4928389dbc68d7824c3fbdf9da452f65ee215cd78
+Size: 49629 bytes
+--- /volume1/homes/ines/Scam-Response-2026-11-12/messages/IMG_gift-cards.jpg
+SHA-256: 2370f3b09fabe70658eca3d4928389dbc68d7824c3fbdf9da452f65ee215cd78
+Size: 49629 bytes
+--- /volume1/Documents/Family/Statements/lakeshore-2026-10.pdf
+SHA-256: eb235ff11789d26fdcc365bee746fff9915e2e5c04c67b544fa7ad24636a8db6
+Size: 126096 bytes
+--- /volume1/homes/ines/Scam-Response-2026-11-12/statements/lakeshore-2026-10.pdf
+SHA-256: eb235ff11789d26fdcc365bee746fff9915e2e5c04c67b544fa7ad24636a8db6
+Size: 126096 bytes

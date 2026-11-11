@@ -1,0 +1,11 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge audio-transcription
+--- /volume1/Voicemail/vm-2026-11-04-1010.m4a
+Recording state: completed
+transcriptText: Hello Mrs Whitfield, this is the dental office. Please call us back to confirm your appointment on Friday
+Segments:
+  [00:00] Hello Mrs Whitfield, this is the dental office.
+  [00:09] Please call us back to confirm your appointment on Friday.
+Quality: good
+Failure reason: none

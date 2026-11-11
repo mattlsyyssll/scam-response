@@ -1,0 +1,28 @@
+File listing of the household C2 (generator view, not for the host):
+/volume1/Documents/Family/Mail/avguard-renewal.pdf; document; 83662 bytes; modified 2026-10-05; sha256 0f365d797973c8543379f60cbd06153fb3999a698e8289a7d2f18f5bab09ad4e
+/volume1/Documents/Family/Mail/lakeshore-security-news-2026-10.pdf; document; 20154 bytes; modified 2026-10-02; sha256 f75350b0a22a68d2151c40f5b2457c0404db8900494a7e40852515e0812a8138
+/volume1/Documents/Family/Statements/lakeshore-2025-09.pdf; statement; 101737 bytes; modified 2025-10-01; sha256 46e8fb014caaa5bd43e7f16f53b509cf49f2c326cde0ed6e745daea8a8afbd0a
+/volume1/Documents/Family/Statements/lakeshore-2025-10.pdf; statement; 73546 bytes; modified 2025-11-01; sha256 15d5b5a3b80a43464cf9666286d1749ea542078b2936bd5b70cb1ad9ea9a079c
+/volume1/Documents/Family/Statements/lakeshore-2025-11.pdf; statement; 106551 bytes; modified 2025-12-01; sha256 7b221619771f0c47eec566232b1d3620b1c41dab0bdcdc8e5b5fea285c9cd994
+/volume1/Documents/Family/Statements/lakeshore-2025-12.pdf; statement; 66377 bytes; modified 2026-01-01; sha256 6182ace3322902c292288a61ea746e6dcef3b0c7d28c2a67eede6767ce95be13
+/volume1/Documents/Family/Statements/lakeshore-2026-01.pdf; statement; 127202 bytes; modified 2026-02-01; sha256 6d7a19059919597be78eff61cf28ad523277d2a3440049c46fcb59ac4cbab09b
+/volume1/Documents/Family/Statements/lakeshore-2026-02.pdf; statement; 127986 bytes; modified 2026-03-01; sha256 7a8d7e6a67ad6cfab3764fcc2316313dfe36c7c9588c294b923cf176a16d2c81
+/volume1/Documents/Family/Statements/lakeshore-2026-03.pdf; statement; 121854 bytes; modified 2026-04-01; sha256 19fbb3fce01ab2777fe70b03cf5414299536a181794319d3ea292253c6744c60
+/volume1/Documents/Family/Statements/lakeshore-2026-04.pdf; statement; 66757 bytes; modified 2026-05-01; sha256 2a777ce2b472ea4ac62a29e69daf70093475b515c4645dd79c3b8c08245b8a76
+/volume1/Documents/Family/Statements/lakeshore-2026-05.pdf; statement; 72761 bytes; modified 2026-06-01; sha256 8ea96a38392aa8d3d0121da156dabde95908af13e9bd62e7e96ee1134f5f2ab5
+/volume1/Documents/Family/Statements/lakeshore-2026-06.pdf; statement; 77069 bytes; modified 2026-07-01; sha256 e37b4b4577103bbf46dc75e271698e65c6463e8dc7599f9e99adada77fc48b95
+/volume1/Documents/Family/Statements/lakeshore-2026-07.pdf; statement; 100613 bytes; modified 2026-08-01; sha256 9f12865303da6a56c5e4906328762ad4907ed468784922fadfa4db54b10937f5
+/volume1/Documents/Family/Statements/lakeshore-2026-08.pdf; statement; 65079 bytes; modified 2026-09-01; sha256 fad3d7323ea02dad6a49a863bd87c6807f5f8c0a492786c38c7cf991e68d772f
+/volume1/Documents/Family/Statements/lakeshore-2026-09.pdf; statement; 94457 bytes; modified 2026-10-01; sha256 5ccefeb33c3468dc3c6119909c80b228ff3e5becaaff44cd021f626785d6ac35
+/volume1/Documents/Family/Statements/lakeshore-2026-10.pdf; statement; 126096 bytes; modified 2026-11-01; sha256 eb235ff11789d26fdcc365bee746fff9915e2e5c04c67b544fa7ad24636a8db6
+/volume1/Documents/Family/Statements/lakeshore-2026-11.pdf; statement; 132210 bytes; modified 2026-11-11; sha256 b4e1b354aa18ae18f8a802e43eccc9e7cc73496a24b9480bd782a17d0b09b61e
+/volume1/Homes/harold/Voice memos/dad-tells-it.m4a; audio; 130752 bytes; modified 2026-11-11; sha256 ae3b9e998e20b26d6b267867ea70be4480e72a4d062bf17377f2099237148049
+/volume1/Photos/Other/IMG_0001.png; photo; 44704 bytes; modified 2026-10-20; sha256 8d087724dddb8b5f1f7e852d9d531c5ed1275e05063bd9f74d181b5f653871f5
+/volume1/Photos/Phone/2026-09/card-back.jpg; photo; 50965 bytes; modified 2026-09-28; sha256 b2c342d1fe27ee1cbde53800b2d0150b80bb0277deeee8ae2f5d7ae6f5503a46
+/volume1/Photos/Phone/2026-10/IMG_garden.jpg; photo; 68208 bytes; modified 2026-10-22; sha256 da190ca665e4cc48f91965a7ab70efaaa6a7b5ca70f65028664cba3809c4edbf
+/volume1/Photos/Phone/2026-10/IMG_gift-cards.jpg; photo; 49629 bytes; modified 2026-10-27; sha256 2370f3b09fabe70658eca3d4928389dbc68d7824c3fbdf9da452f65ee215cd78
+/volume1/Photos/Phone/2026-10/Screenshot_2026-10-26-1340.png; photo; 66252 bytes; modified 2026-10-26; sha256 ee2383536ca2911c04d39d4c33a8eece22b4b568c9b82ece5bdeb49f23ca4168
+/volume1/Photos/Phone/2026-10/Screenshot_2026-10-26-1402.png; photo; 48680 bytes; modified 2026-10-26; sha256 907a56b1167c5c79668aa9f3a1e0a9a959c0c6fe11413c072f346f13fd40baa8
+/volume1/Photos/Phone/2026-10/Screenshot_2026-10-27-1015.png; photo; 29830 bytes; modified 2026-10-27; sha256 ef7dbfff80e3e846461dae44399bb9065d51e7ac81ff682668a0bb97e1435ca7
+/volume1/Photos/Phone/2026-10/Screenshot_2026-10-27-1130.png; photo; 69200 bytes; modified 2026-10-27; sha256 c6a36533bfabef68300b42ed99e6fa5bf4086f2f199cb946e389d7c769fc570a
+/volume1/Voicemail/vm-2026-10-26-1318.m4a; audio; 298547 bytes; modified 2026-10-26; sha256 8cbeac826154873501ee49a48039c61f81f68dc36dedaf1b97181066924b058b

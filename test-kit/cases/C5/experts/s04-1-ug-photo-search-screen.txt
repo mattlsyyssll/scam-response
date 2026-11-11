@@ -1,0 +1,15 @@
+state: completed
+expert: photo-agent
+action: ug-photo search-screen
+--- /volume1/Photos/Phone/2026-11/IMG_2201.png
+Folder: /volume1/Photos/Phone/2026-11
+Category: screen
+Capture time: 2026-11-06 08:00
+--- /volume1/Photos/Phone/2026-10/card-cedar.jpg
+Folder: /volume1/Photos/Phone/2026-10
+Category: card
+Capture time: 2026-10-08 10:00
+--- /volume1/Photos/Other/IMG_0001.png
+Folder: /volume1/Photos/Other
+Category: screen
+Capture time: 2026-10-20 09:00

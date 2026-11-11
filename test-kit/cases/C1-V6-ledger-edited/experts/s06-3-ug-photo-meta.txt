@@ -1,0 +1,21 @@
+state: completed
+expert: photo-agent
+action: ug-photo meta
+--- /volume1/Photos/Phone/2026-10/IMG_2041.png
+Capture time: 2026-10-14 17:22
+File size: 24309 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_2059.png
+Capture time: 2026-10-18 09:05
+File size: 79994 bytes
+--- /volume1/Photos/Phone/2026-09/card-front.jpg
+Capture time: 2026-09-20 10:11
+File size: 43677 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_2064.jpg
+Capture time: 2026-10-15 09:10
+File size: 92005 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_2070.jpg
+Capture time: 2026-10-21 11:30
+File size: 49650 bytes
+--- /volume1/Photos/Other/IMG_0001.png
+Capture time: 2026-10-20 09:00
+File size: 70660 bytes

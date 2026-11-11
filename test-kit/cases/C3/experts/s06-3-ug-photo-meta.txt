@@ -1,0 +1,15 @@
+state: completed
+expert: photo-agent
+action: ug-photo meta
+--- /volume1/Photos/Phone/2026-10/card-photo.jpg
+Capture time: 2026-10-08 12:00
+File size: 91500 bytes
+--- /volume1/Photos/Phone/2026-11/IMG_receipt.jpg
+Capture time: 2026-11-03 11:20
+File size: 51558 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_cat.jpg
+Capture time: 2026-10-30 09:00
+File size: 64251 bytes
+--- /volume1/Photos/Other/IMG_0001.png
+Capture time: 2026-10-20 09:00
+File size: 68296 bytes

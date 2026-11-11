@@ -1,0 +1,13 @@
+state: completed
+expert: knowledge-agent
+action: ug-knowledge collect-evidence
+--- /volume1/Documents/Family/Mail/lakeshore-security-news-2026-10.pdf
+Date: 2026-10-02
+Addressed to: all Lakeshore members
+Passage: we never ask you to buy gift cards.
+--- /volume1/Documents/Family/Mail/avguard-renewal.pdf
+Date: 2026-10-05
+Addressed to: Harold Brandt (a renewal notice, no request)
+Passage: AVGUARD renewed 9.99 monthly
+Coverage: read 17 files in /volume1/Documents/Family (documents and statements); images and recordings are read by the photo and knowledge experts.
+Failed to read: none

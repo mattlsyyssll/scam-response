@@ -1,0 +1,141 @@
+state: completed
+expert: document-agent
+action: ug-document extract
+--- /volume1/Documents/Family/Statements/summit-2025-08.pdf
+Statement state: completed
+Period: 2025-08-01 to 2025-08-31
+Row: 2025-08-06 | GREEN MARKET | 86.56 | debit | CAD | 6150
+Row: 2025-08-17 | HYDRO UTILITY | 80.72 | debit | CAD | 6150
+Row: 2025-08-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2025-09.pdf
+Statement state: completed
+Period: 2025-09-01 to 2025-09-30
+Row: 2025-09-06 | GREEN MARKET | 80.09 | debit | CAD | 6150
+Row: 2025-09-17 | HYDRO UTILITY | 91.45 | debit | CAD | 6150
+Row: 2025-09-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2025-10.pdf
+Statement state: completed
+Period: 2025-10-01 to 2025-10-31
+Row: 2025-10-06 | GREEN MARKET | 45.72 | debit | CAD | 6150
+Row: 2025-10-17 | HYDRO UTILITY | 73.98 | debit | CAD | 6150
+Row: 2025-10-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2025-11.pdf
+Statement state: completed
+Period: 2025-11-01 to 2025-11-30
+Row: 2025-11-06 | GREEN MARKET | 44.29 | debit | CAD | 6150
+Row: 2025-11-17 | HYDRO UTILITY | 92.31 | debit | CAD | 6150
+Row: 2025-11-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2025-12.pdf
+Statement state: completed
+Period: 2025-12-01 to 2025-12-31
+Row: 2025-12-06 | GREEN MARKET | 40.20 | debit | CAD | 6150
+Row: 2025-12-17 | HYDRO UTILITY | 80.14 | debit | CAD | 6150
+Row: 2025-12-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-01.pdf
+Statement state: completed
+Period: 2026-01-01 to 2026-01-31
+Row: 2026-01-06 | GREEN MARKET | 61.48 | debit | CAD | 6150
+Row: 2026-01-17 | HYDRO UTILITY | 87.91 | debit | CAD | 6150
+Row: 2026-01-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-02.pdf
+Statement state: completed
+Period: 2026-02-01 to 2026-02-28
+Row: 2026-02-06 | GREEN MARKET | 40.81 | debit | CAD | 6150
+Row: 2026-02-17 | HYDRO UTILITY | 90.48 | debit | CAD | 6150
+Row: 2026-02-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-03.pdf
+Statement state: completed
+Period: 2026-03-01 to 2026-03-31
+Row: 2026-03-06 | GREEN MARKET | 48.92 | debit | CAD | 6150
+Row: 2026-03-17 | HYDRO UTILITY | 92.54 | debit | CAD | 6150
+Row: 2026-03-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-04.pdf
+Statement state: completed
+Period: 2026-04-01 to 2026-04-30
+Row: 2026-04-06 | GREEN MARKET | 52.60 | debit | CAD | 6150
+Row: 2026-04-17 | HYDRO UTILITY | 94.89 | debit | CAD | 6150
+Row: 2026-04-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-05.pdf
+Statement state: completed
+Period: 2026-05-01 to 2026-05-31
+Row: 2026-05-06 | GREEN MARKET | 57.47 | debit | CAD | 6150
+Row: 2026-05-17 | HYDRO UTILITY | 73.64 | debit | CAD | 6150
+Row: 2026-05-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-06.pdf
+Statement state: completed
+Period: 2026-06-01 to 2026-06-30
+Row: 2026-06-06 | GREEN MARKET | 43.94 | debit | CAD | 6150
+Row: 2026-06-17 | HYDRO UTILITY | 91.81 | debit | CAD | 6150
+Row: 2026-06-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-08.pdf
+Statement state: completed
+Period: 2026-08-01 to 2026-08-31
+Row: 2026-08-06 | GREEN MARKET | 45.42 | debit | CAD | 6150
+Row: 2026-08-17 | HYDRO UTILITY | 83.83 | debit | CAD | 6150
+Row: 2026-08-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 3 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-09.pdf
+Statement state: completed
+Period: 2026-09-01 to 2026-09-30
+Row: 2026-09-06 | GREEN MARKET | 68.60 | debit | CAD | 6150
+Row: 2026-09-17 | HYDRO UTILITY | 92.01 | debit | CAD | 6150
+Row: 2026-09-22 | WIRE OUT 90417712 AURELIS CAPITAL | 1000.00 | debit | CAD | 6150
+Row: 2026-09-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 4 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-10.pdf
+Statement state: completed
+Period: 2026-10-01 to 2026-10-31
+Row: 2026-10-06 | GREEN MARKET | 73.57 | debit | CAD | 6150
+Row: 2026-10-06 | WIRE OUT 90417712 AURELIS CAPITAL | 2000.00 | debit | CAD | 6150
+Row: 2026-10-17 | HYDRO UTILITY | 99.66 | debit | CAD | 6150
+Row: 2026-10-20 | WIRE OUT 90417712 AURELIS CAPITAL | 3500.00 | debit | CAD | 6150
+Row: 2026-10-25 | PENSION DEPOSIT | 2100.00 | credit | CAD | 6150
+Row: 2026-10-27 | WIRE OUT 90417712 AURELIS CAPITAL | 2500.00 | debit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 6 rows
+Failure reason: none
+--- /volume1/Documents/Family/Statements/summit-2026-11.pdf
+Statement state: completed
+Period: 2026-11-01 to 2026-11-10
+Row: 2026-11-04 | WIRE OUT 90417712 AURELIS HOLDINGS | 4350.00 | debit | CAD | 6150
+Row: 2026-11-06 | GREEN MARKET | 53.03 | debit | CAD | 6150
+Header text as read: Summit Trust, customer service 1-800-555-0163
+Coverage: all pages read, 2 rows
+Failure reason: none

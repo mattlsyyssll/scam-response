@@ -1,0 +1,41 @@
+replay self-test: pass (0 failures)
+C1 correct folder: PASS (15 checks)
+C2 correct folder: PASS (15 checks)
+C3 correct folder: PASS (15 checks)
+C4 correct folder: PASS (15 checks)
+C1 broken folder for extract_verbatim: failed checks ['extract_verbatim', 'totals_and_dates', 'same_facts']: PASS
+C1 broken folder for totals_and_dates: failed checks ['totals_and_dates']: PASS
+C1 broken folder for quotes_verbatim: failed checks ['quotes_verbatim']: PASS
+C1 broken folder for timeline_order: failed checks ['timeline_order']: PASS
+C1 broken folder for dispute_rows: failed checks ['dispute_rows']: PASS
+C1 broken folder for copy_hashes: failed checks ['copy_hashes']: PASS
+C1 broken folder for writes: failed checks ['copy_hashes', 'writes', 'consent']: PASS
+C1 broken folder for states_order: failed checks ['states_order']: PASS
+C1 broken folder for link_L1: failed checks ['link_L1']: PASS
+C1 broken folder for stop_numbers: failed checks ['stop_numbers']: PASS
+C1 broken folder for consent: failed checks ['consent']: PASS
+C1 broken folder for tags: failed checks ['tags']: PASS
+C1 broken folder for same_facts: failed checks ['same_facts']: PASS
+C1 broken folder for exhibits_listed: failed checks ['exhibits_listed']: PASS
+C1 reads: inside allowed folders passes, a read of a key fails: PASS
+P6 C1-V6 edited ledger: chain check reports "detected as expected: stored ledger chain breaks at line 4": PASS
+P6 verdict(break 4, expected 4) -> pass: PASS
+P6 verdict(break None, expected 4) -> fail: PASS
+P6 verdict(break 3, expected 4) -> fail: PASS
+P6 verdict(break None, expected None) -> pass: PASS
+P6 verdict(break 4, expected None) -> fail: PASS
+P1 reads: the run's own prompt file passes, another case's prompt file fails: PASS
+S1 stop_numbers: the card-photo number passes, a statement-header number fails when a card photo has one: PASS
+P2 timeline_order: date-only row after a timed row passes; an earlier date and an earlier time fail: PASS
+P3/P7 consent: dropped image named on GAPS passes (copies go to the case folder); the same image as evidence in payments or timeline fails: PASS
+P4 tags: "A1, A2" passes; a tag on the untagged file img_2059.png fails: PASS
+P5 quotes_verbatim: bracket notes after a quote and a holder sentence pass; an altered quote with a note fails: PASS
+R18 quotes_verbatim: parts split on " / " with quote marks and "ending 0593" pass; "ending 9999" fails: PASS
+P8 states_order: a numbered list in the step log passes; swapped Step 4 and 5 lines fail: PASS
+PF2 pages_parsed: a PAGES reply with pages passes; the same reply with no page parsed fails: PASS
+PF6 writes: "cpmv of 10 files (copy, never move" passes; the command "cpmv move /a /b" fails: PASS
+PF10 quotes_verbatim: "not transcribed: listen and quote by hand" passes; an invented sentence fails: PASS
+PF11 totals_and_dates: "Report-by date: not applicable" on a normal row passes; on a dispute row fails: PASS
+PF14 stop_numbers: a header number passes when the card photo was not consented (one-folder case) and fails when it was: PASS
+PF15 quotes_verbatim: a sentence of the parent's typed answer passes; an altered one fails: PASS
+ledger_chain (ledger hashes injected, the stored replies hold none): correct passes, a wrong hash fails: PASS

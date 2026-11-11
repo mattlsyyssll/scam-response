@@ -1,0 +1,30 @@
+state: completed
+expert: file-agent
+action: ug-filesystem sha256sum
+--- /volume1/Photos/Phone/2026-10/IMG_2041.png
+SHA-256: f9aef14a9fec0c17f214b4bce7d42efae1a78379e2591ff37613e75e93c13d97
+Size: 24309 bytes
+--- /volume1/homes/dana/Scam-Response-2026-11-12/messages/IMG_2041.png
+SHA-256: f9aef14a9fec0c17f214b4bce7d42efae1a78379e2591ff37613e75e93c13d97
+Size: 24309 bytes
+--- /volume1/Photos/Phone/2026-10/IMG_2064.jpg
+SHA-256: 4364b155428c222d5643eb89d111d1c507d24205b25debed332e360a14eb4f94
+Size: 92005 bytes
+--- /volume1/homes/dana/Scam-Response-2026-11-12/messages/IMG_2064.jpg
+SHA-256: 4364b155428c222d5643eb89d111d1c507d24205b25debed332e360a14eb4f94
+Size: 92005 bytes
+--- /volume1/Voicemail/vm-2026-10-15-0840.m4a
+SHA-256: 73016c260175531da5c85676ae8fedb51dec779472f9f823459a7496ae5ae8d8
+Size: 312036 bytes
+--- /volume1/Voicemail/vm-2026-10-19-0755.m4a
+SHA-256: 409f450a6a33376da95458cd534c7ec5d2e4b3324f704ee7ffd32e5ddd4df794
+Size: 381079 bytes
+--- /volume1/homes/dana/Scam-Response-2026-11-12/recordings/vm-2026-10-19-0755.m4a
+SHA-256: 409f450a6a33376da95458cd534c7ec5d2e4b3324f704ee7ffd32e5ddd4df794
+Size: 381079 bytes
+--- /volume1/Documents/Family/Statements/northvale-2026-10.pdf
+SHA-256: 481697b8900ca0dcfb1e9038f13c3fc47abc9cefd07d236a4d533cdd0e0d91eb
+Size: 93484 bytes
+--- /volume1/homes/dana/Scam-Response-2026-11-12/statements/northvale-2026-10.pdf
+SHA-256: 481697b8900ca0dcfb1e9038f13c3fc47abc9cefd07d236a4d533cdd0e0d91eb
+Size: 93484 bytes

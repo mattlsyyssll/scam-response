@@ -1,0 +1,6 @@
+state: completed
+expert: photo-agent
+action: ug-photo search-picture
+--- /volume1/Photos/Phone/2026-11/IMG_2201.png
+Folder: /volume1/Photos/Phone/2026-11
+Capture time: 2026-11-06 08:00

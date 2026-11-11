@@ -1,0 +1,21 @@
+state: completed
+expert: photo-agent
+action: ug-photo vision-ocr
+--- /volume1/Photos/Phone/2026-11/IMG_2201.png
+Line 1: Cedar Bank | clear
+Line 2: Your October statement is ready to view. | clear
+Line 3: Thu 6 Nov 07:59 | clear
+Card last four: none
+--- /volume1/Photos/Phone/2026-10/card-cedar.jpg
+Line 1: CEDAR BANK | clear
+Line 2: NORA WHITFIELD | clear
+Line 3: Lost or stolen 1-800-555-0133 | clear
+Line 4: Card ending 3390 | clear
+Card last four: 3390
+--- /volume1/Photos/Phone/2026-10/IMG_flowers.jpg
+Line 1: Roses 14.50 | clear
+Card last four: none
+--- /volume1/Photos/Other/IMG_0001.png
+Line 1: Weather: sunny | clear
+Card last four: none
+Unreadable images: none

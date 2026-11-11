@@ -1,0 +1,7 @@
+state: completed
+expert: document-agent
+action: ug-document reconcile
+New payee: CASH ATM MAIN ST | rows used: 2026-11-04 600.00
+New payee: JEWELLERS PRIME | rows used: 2026-11-03 1250.00
+New payee: TECHMART ELECTRONICS | rows used: 2026-11-03 899.00
+Explained: none

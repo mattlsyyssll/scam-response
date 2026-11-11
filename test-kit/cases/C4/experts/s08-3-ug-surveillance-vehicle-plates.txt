@@ -1,0 +1,7 @@
+state: completed
+expert: security-monitor-agent
+action: ug-surveillance vehicle-plates
+--- ABC 1180
+Time: 2026-10-20 17:30
+Camera: Driveway
+Known vehicle: yes
