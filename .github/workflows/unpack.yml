@@ -1,0 +1,21 @@
+name: unpack
+on:
+  push:
+    paths: ['repo.zip']
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack the uploaded ZIP into the repository
+        run: |
+          echo "14bbd46bdbb7ee49fb2061e505c74b7789f79d227cfeaf9c977a66da1290264a  repo.zip" | sha256sum -c
+          unzip -o -q repo.zip -d .
+          git rm -q repo.zip
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Add the Skill, the test kit and the tools"
+          git push
