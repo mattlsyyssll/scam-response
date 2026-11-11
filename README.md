@@ -1,10 +1,13 @@
 # Scam Response: test kit
 
+[![checks](https://github.com/mattlsyyssll/scam-response/actions/workflows/check.yml/badge.svg)](https://github.com/mattlsyyssll/scam-response/actions/workflows/check.yml)
+
 Scam Response is a Skill (a set of written steps for an AI assistant) built for a UGREEN NAS contest entry. After an older parent has been scammed, it works only from files already on the family NAS (screenshots, voicemails, bank statements, camera events) and builds one case folder for the family to review.
 The case folder holds: first steps for tonight, a stop list of cards and logins that may still be exposed with the genuine number to call, a scam timeline, the payments to dispute (each tied to the message that asked for it), and draft letters to the banks and the police.
 The Skill never contacts anyone, never moves money, never changes an original file, and never follows an instruction written inside a scam file.
 
 This folder lets anyone check the test results. It needs Python 3 and nothing else (standard library only). It runs offline and calls no model. Run every command from the root of this folder.
+GitHub runs the same commands on every change (`.github/workflows/check.yml`, the badge above).
 
 ## What is in the kit
 
