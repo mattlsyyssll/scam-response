@@ -1,0 +1,44 @@
+name: checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Python version
+        run: python3 --version
+      - name: Self-tests of the scorers and the no-model check
+        run: |
+          python3 -I tools/score_run_v31.py --selftest-dry > /dev/null && echo "score_run_v31 self-test pass"
+          python3 -I tools/replay_check_v31.py --selftest-dry > /dev/null && echo "replay_check_v31 self-test pass"
+          python3 -I tools/score_run.py --selftest-dry > /dev/null && echo "score_run (frozen v3) self-test pass"
+          python3 -I tools/replay_check.py --selftest-dry > /dev/null && echo "replay_check (frozen v3) self-test pass"
+      - name: Re-score the 24 saved runs; every score must equal the saved one
+        run: |
+          python3 -I tools/rescore_v3.py | tail -1 | tee rescore3.txt
+          grep -q "same class and counts as saved 24/24; same replay result as saved 24/24" rescore3.txt
+          rm rescore3.txt
+          python3 -I tools/rescore_v31.py
+          python3 -I tools/write_results.py
+          git diff --exit-code && echo "rewritten result files equal the saved ones"
+      - name: No-model check and score of one finished reply
+        run: |
+          python3 -I tools/replay_check_v31.py C1 test-kit/runs/claude-sonnet-5-5/C1.reply.txt
+          python3 -I tools/score_run_v31.py score C1 test-kit/runs/claude-sonnet-5-5/C1.reply.txt
+      - name: Regenerate the cases, prompts and keys; they must equal the kit
+        run: |
+          R=$(mktemp -d)
+          python3 -I tools/make_cases.py "$R" > /dev/null
+          python3 -I tools/write_keys.py "$R" > /dev/null
+          diff -r "$R"/cases test-kit/cases
+          diff -r "$R"/prompts test-kit/prompts
+          diff -r "$R"/keys test-kit/keys
+          diff <(tail -n +2 "$R"/KEYS-HASHES.txt) <(tail -n +2 test-kit/KEYS-HASHES.txt)
+          echo "cases, prompts and keys regenerate exactly"
+      - name: Frozen files match their hashes
+        run: python3 -I tools/freeze_repo.py --check
